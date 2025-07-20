@@ -1,0 +1,9 @@
+id,user_name,password,active,date_created,last_modified_by,date_last_modified,activation_key,date_reset,reset_key,uploaded,time_uploaded,person_id,email,gender,phone_number,current_organisation_unit_id
+6,drdave,1234,NULL,NULL,NULL,2020-11-26,NULL,NULL,NULL,NULL,NULL,61,NULL,NULL,NULL,1132
+7,guest@lamisplus.org,$2b$10$bcg6DbcAP9W9PbjGbJnqVebza6610MGzk81FgBpSw0y6bUAcP/RA.,NULL,2020-06-15,NULL,2021-02-26,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL,NULL,1132
+51,henrybadmus@mail.com,$2a$10$E2NbC3UR420/ajfc2UyUVuj.fhD9ZHtZDhQdAq89Wwoah1lSQPTFW,1,2020-11-26,NULL,2020-11-26,NULL,NULL,NULL,NULL,NULL,377,henrybadmus@mail.com,Male,07068551008,1132
+52,stevix,$2a$10$2XRBAyCISC4.dWyrb/VmIehJ7C66Fs75y2EiuE.XhT/Oqg0knVx.G,1,2020-11-26,NULL,2020-12-19,NULL,NULL,NULL,NULL,NULL,378,stevix111@gmail.com,Male,0801000000,1132
+53,dooakuto@lamisplus.org,$2a$10$93Tq7gthqZEtfmzTPrW2S.8duA7h7BWAMO5Fb7MHjNveWxKEnfI96,1,2020-11-26,NULL,2020-11-26,NULL,NULL,NULL,NULL,NULL,379,dooakuto@lamisplus.org,Female,07068551008,1132
+54,test,$2a$10$JBT3WwDSMa88BUQ.HZMv2uFP/yw.LiAeBX7MNTtr2HqYukbpGEyEi,1,2020-11-26,NULL,2020-11-26,NULL,NULL,NULL,NULL,NULL,380,test@test.com,Male,0099009909090,1132
+55,emmanuel,$2a$10$XkQHWXTvAdMvURllHs0CCOq34b1WW2aRMsv15OULuYJ26M0fuyAdW,1,2020-11-26,NULL,2020-11-26,NULL,NULL,NULL,NULL,NULL,381,aieoadekunle@gmail.com,Male,08055519200,1132
+56,barrack,$2a$10$mHtZ3vn2Grqd37CDeOItBeEUKNrhZaEbIVfKG0zNHkJyNyAZG/8TS,1,2020-11-27,NULL,2020-11-27,NULL,NULL,NULL,NULL,NULL,383,obama@sample.com,Male,08012345678,1132

@@ -1,0 +1,11 @@
+id,name,created_by,uuid,archived,modified_by,date_modified,organisation_unit_id,date_created
+1,Isolation ,guest@lamisplus.org,be5334fc-2cbb-438f-83fb-d7db93150366,1,guest@lamisplus.org,2020-09-03 19:15:08.983,1132,NULL
+2,Isolation Ward,guest@lamisplus.org,b2c9e313-52f9-45d7-b462-13610d89b007,0,guest@lamisplus.org,2020-09-03 19:15:29.283,1132,NULL
+3,Maternity Ward,guest@lamisplus.org,38aa1526-cf96-46a4-aafd-c653b73497b5,0,NULL,2020-09-03 19:15:39.546,1132,NULL
+4,ICU,guest@lamisplus.org,9d3c1f17-8493-4dd4-8a08-24e6c5615c38,0,NULL,2020-09-03 19:15:52.146,1132,NULL
+5,Paediatric Ward,guest@lamisplus.org,d862ab78-9564-42c7-a967-9e9bb0495853,0,NULL,2020-09-15 18:25:39.149,1132,NULL
+6,Emergency Ward,guest@lamisplus.org,d9710ec0-4c2c-4f62-bdac-0ced6226124c,0,guest@lamisplus.org,2020-09-15 18:26:08.558,1132,NULL
+7,Paternity Ward,guest@lamisplus.org,6c6306a0-23b7-44a0-8604-31caef81a72d,1,guest@lamisplus.org,2020-11-26 09:54:16.769,1132,NULL
+8,Labour ward 1,guest@lamisplus.org,35e85331-672e-4a76-a905-752418ec13ed,0,guest@lamisplus.org,2021-01-25 14:00:57.404,1132,NULL
+9,ST ANN1234,NULL,13893fd9-a146-47d9-bf57-4b8a1a1f1224,0,guest@lamisplus.org,2021-01-25 13:35:11.472,1132,NULL
+15,testing123,guest@lamisplus.org,9107f2a9-e1e2-4c42-90ea-b51d45a05bef,0,guest@lamisplus.org,2021-01-25 14:41:30.055,1132,2021-01-25 14:40:15.601

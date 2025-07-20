@@ -1,0 +1,58 @@
+id,name,code,drug_group_id,created_by,date_created,date_modified,modified_by,archived
+1,Multivitamin,MVT,3,NULL,NULL,NULL,NULL,0
+2,Ibuprofen,IBU,3,NULL,NULL,NULL,NULL,0
+3,Spectinomycine,SPEC,3,NULL,NULL,NULL,NULL,0
+4,Nystatin,NYS,3,NULL,NULL,NULL,NULL,0
+5,Ethambuthol/Isoniazid,EH,3,NULL,NULL,NULL,NULL,0
+6,Rifampicin/Isoniazid/Pyrazinamide,RHZ,3,NULL,NULL,NULL,NULL,0
+7,Streptomycin,S,3,NULL,NULL,NULL,NULL,0
+8,Loratidine,LOR,3,NULL,NULL,NULL,NULL,0
+9,Promethezine HCL,PROMET,3,NULL,NULL,NULL,NULL,0
+10,Lamivudine,3TC,1,NULL,NULL,NULL,NULL,0
+11,Pyrazinamide,Z,3,NULL,NULL,NULL,NULL,0
+12,Tramadol HCL,TRAM,3,NULL,NULL,NULL,NULL,0
+13,Tinidazole,TDZ,3,NULL,NULL,NULL,NULL,0
+14,Hydrocortine,HYC,3,NULL,NULL,NULL,NULL,0
+15,Rifampicin/Isoniazid,RH,3,NULL,NULL,NULL,NULL,0
+16,Chlorpheniramine,CHLO,3,NULL,NULL,NULL,NULL,0
+17,Indinavir/Ritonavir,IDV/r,3,NULL,NULL,NULL,NULL,0
+18,Didanosine,DDI,1,NULL,NULL,NULL,NULL,0
+19,Ferrous Gluconate,FEROC,3,NULL,NULL,NULL,NULL,0
+20,Rifampicin,R,3,NULL,NULL,NULL,NULL,0
+21,Benzoic Acid/Salicylic Acid Ointment,BSA,3,NULL,NULL,NULL,NULL,0
+22,Oral Dehydration Solution,ORS,3,NULL,NULL,NULL,NULL,0
+23,Efavirenz,EFV,1,NULL,NULL,NULL,NULL,0
+24,Ethambuthol,E,3,NULL,NULL,NULL,NULL,0
+25,Ciprofloxacin,CIPRO,3,NULL,NULL,NULL,NULL,0
+26,Nevirapine,NVP,1,NULL,NULL,NULL,NULL,0
+27,Lopinavir/Ritonavir,LPV/r,1,NULL,NULL,NULL,NULL,0
+28,Sulphadoxin/Pyrimethamine,SUPY,3,NULL,NULL,NULL,NULL,0
+29,Doxycycline,DOXY,3,NULL,NULL,NULL,NULL,0
+30,Abacavir,ABC,1,NULL,NULL,NULL,NULL,0
+31,Stavudine,d4t,1,NULL,NULL,NULL,NULL,0
+32,Zithromax,ZIT,3,NULL,NULL,NULL,NULL,0
+33,Cotrimoxazole,CTX,3,NULL,NULL,NULL,NULL,0
+34,Tetracycline,TCN,3,NULL,NULL,NULL,NULL,0
+35,Amoxycillin/Clavulanate,AMOX/C,3,NULL,NULL,NULL,NULL,0
+36,Rifampicin/Isoniazid/Pyrazinamide/Ethambuthol,RHZE,3,NULL,NULL,NULL,NULL,0
+37,Fluconazole,FLU,3,NULL,NULL,NULL,NULL,0
+38,Atazanavir/Ritonavir,ATV/r,1,NULL,NULL,NULL,NULL,0
+39,Fluoxetine,FLUX,3,NULL,NULL,NULL,NULL,0
+40,Azithromycin,AZI,3,NULL,NULL,NULL,NULL,0
+41,Emtricitabine,FTC,1,NULL,NULL,NULL,NULL,0
+42,Folic Acid,FOLIC,3,NULL,NULL,NULL,NULL,0
+43,Acyclovir,ACY,3,NULL,NULL,NULL,NULL,0
+44,Ceftriaxone,CFX,3,NULL,NULL,NULL,NULL,0
+45,Ferrous Sulphate,FEROS,3,NULL,NULL,NULL,NULL,0
+46,Ofloxacin,OFLOX,3,NULL,NULL,NULL,NULL,0
+47,Dolutegravir,DTG,1,NULL,NULL,NULL,NULL,0
+48,Loperamide,LOP,3,NULL,NULL,NULL,NULL,0
+49,Tenofovir,TDF,1,NULL,NULL,NULL,NULL,0
+50,Metronidazole,MET,3,NULL,NULL,NULL,NULL,0
+51,Metoclopramide,METO,3,NULL,NULL,NULL,NULL,0
+52,Benzathine Penicillin,BPCN,3,NULL,NULL,NULL,NULL,0
+53,Zidovudine,AZT,1,NULL,NULL,NULL,NULL,0
+54,Amitryptiline,ATP,3,NULL,NULL,NULL,NULL,0
+55,Isoniazid,H,3,NULL,NULL,NULL,NULL,0
+56,Arthemeter/Lumefantrine,ART/LUM,3,NULL,NULL,NULL,NULL,0
+57,Erythromycin,ERY,3,NULL,NULL,NULL,NULL,0

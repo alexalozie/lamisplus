@@ -1,0 +1,4 @@
+id,name,uuid,date_created,created_by,date_modified,modified_by,archived
+1,Antiretroviral Therapy,NULL,NULL,NULL,NULL,NULL,0
+2,Isoniazid Preventive Therapy (IPT),NULL,NULL,NULL,NULL,NULL,0
+3,Other Medicines,NULL,NULL,NULL,NULL,NULL,0

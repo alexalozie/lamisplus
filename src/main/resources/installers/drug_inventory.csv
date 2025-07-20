@@ -1,0 +1,102 @@
+id,drug_id,brand_name,strength,pack_size,dosage_form,uuid,date_created,created_by,date_modified,modified_by,archived
+1,2,Indinavir/Ritonavir,400/100mg,60,Capsules,NULL,NULL,NULL,NULL,NULL,0
+2,3,Atazanavir/Ritonavir,300/100mg,60,Capsules,NULL,NULL,NULL,NULL,NULL,0
+3,4,Emtricitabine,200mg,60,Capsules,NULL,NULL,NULL,NULL,NULL,0
+4,5,Tenofovir,300mg,60,Capsules,NULL,NULL,NULL,NULL,NULL,0
+5,6,Tenofovir/Emtricitabine,300/200mg,60,Capsules,NULL,NULL,NULL,NULL,NULL,0
+6,7,Stavudine,20mg,60,Capsules,NULL,NULL,NULL,NULL,NULL,0
+7,8,Stavudine,6mg,60,Capsules,NULL,NULL,NULL,NULL,NULL,0
+8,9,Stavudine,12mg,60,Capsules,NULL,NULL,NULL,NULL,NULL,0
+9,10,Lamivudine,30mg,60,Tablets,NULL,NULL,NULL,NULL,NULL,0
+10,11,Lamivudine,60mg,60,Tablets,NULL,NULL,NULL,NULL,NULL,0
+11,12,Nevirapine,50mg,60,Tablets,NULL,NULL,NULL,NULL,NULL,0
+12,13,Zidovudine,60mg,60,Tablets,NULL,NULL,NULL,NULL,NULL,0
+13,14,Cotrimoxazole,960mg,336,Tablets,NULL,NULL,NULL,NULL,NULL,0
+14,15,Cotrimoxazole,480mg,240,Tablets,NULL,NULL,NULL,NULL,NULL,0
+15,16,Cotrimoxazole,240mg/5ml,100,Suspension,NULL,NULL,NULL,NULL,NULL,0
+16,17,Acyclovir,200mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+17,18,Amoxycillin/Clavulanate,625mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+18,19,Amoxycillin/Clavulanate,457mg/5ml,100,Syrup,NULL,NULL,NULL,NULL,NULL,0
+19,20,Fluconazole,50mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+20,21,Fluconazole,50mg/5ml,100,Suspension,NULL,NULL,NULL,NULL,NULL,0
+21,22,Fluconazole,200mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+22,23,Nystatin,100,000iu/ml,100,Suspension,NULL,NULL,NULL,NULL,NULL,0
+23,24,Tinidazole,500mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+24,25,Azithromycin,250mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+25,26,Benzathine Penicillin,NULL,100,Injectables,NULL,NULL,NULL,NULL,NULL,0
+26,27,Ceftriaxone,1g,100,Injectables,NULL,NULL,NULL,NULL,NULL,0
+27,28,Ciprofloxacin,500mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+28,29,Efavirenz,600mg,30,Capsules,NULL,NULL,NULL,NULL,NULL,0
+29,30,Efavirenz,200mg,90,Capsules,NULL,NULL,NULL,NULL,NULL,0
+30,31,Lamivudine,150mg,60,Tablets,NULL,NULL,NULL,NULL,NULL,0
+31,32,Lamivudine,10mg/ml,60,Suspension,NULL,NULL,NULL,NULL,NULL,0
+32,33,Lamivudine,300mg,60,Tablets,NULL,NULL,NULL,NULL,NULL,0
+33,34,Zidovudine/Lamivudine,300/150mg,60,Tablets,NULL,NULL,NULL,NULL,NULL,0
+34,35,Stavudine/Lamivudine/Efavirenz,6/30/200mg,60,Tablets,NULL,NULL,NULL,NULL,NULL,0
+35,36,Stavudine/Lamivudine/Efavirenz,12/60/200mg,60,Tablets,NULL,NULL,NULL,NULL,NULL,0
+36,37,Stavudine/Lamivudine/Nevirapine,6/30/50mg,60,Tablets,NULL,NULL,NULL,NULL,NULL,0
+37,38,Stavudine/Lamivudine/Nevirapine,12/60/100mg,60,Tablets,NULL,NULL,NULL,NULL,NULL,0
+38,39,Zidovudine/Lamivudine/Nevirapine,60/30/50mg,60,Tablets,NULL,NULL,NULL,NULL,NULL,0
+39,40,Zidovudine/Lamivudine/Efavirenz,60/30/200mg,60,Tablets,NULL,NULL,NULL,NULL,NULL,0
+40,41,Nevirapine,10mg/ml,60,Suspension,NULL,NULL,NULL,NULL,NULL,0
+41,42,Nevirapine,200mg,60,Tablets,NULL,NULL,NULL,NULL,NULL,0
+42,43,Stavudine,30mg,60,Capsules,NULL,NULL,NULL,NULL,NULL,0
+43,44,Stavudine,1mg/ml,60,Suspension,NULL,NULL,NULL,NULL,NULL,0
+44,45,Zidovudine,100mg,60,Capsules,NULL,NULL,NULL,NULL,NULL,0
+45,46,Zidovudine,10mg/ml,60,Syrup,NULL,NULL,NULL,NULL,NULL,0
+46,47,Zidovudine,300mg,60,Tablets,NULL,NULL,NULL,NULL,NULL,0
+47,48,Zidovudine,60mg,60,Tablets,NULL,NULL,NULL,NULL,NULL,0
+48,49,Didanosine,10mg/ml,60,Suspension,NULL,NULL,NULL,NULL,NULL,0
+49,50,Didanosine,400mg,60,Tablets,NULL,NULL,NULL,NULL,NULL,0
+50,51,Abacavir,300mg,60,Tablets,NULL,NULL,NULL,NULL,NULL,0
+51,52,Abacavir,20mg/ml,60,Oral Solution,NULL,NULL,NULL,NULL,NULL,0
+52,53,Abacavir,60mg,60,Tablets,NULL,NULL,NULL,NULL,NULL,0
+53,54,Lopinavir/Ritonavir,80/20mg/ml,60,Oral Solution,NULL,NULL,NULL,NULL,NULL,0
+54,55,Doxycycline,100mg,100,Capsules,NULL,NULL,NULL,NULL,NULL,0
+55,56,Erythromycin,500mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+56,57,Ofloxacin,200mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+57,58,Spectinomycine,2g,100,Injectables,NULL,NULL,NULL,NULL,NULL,0
+58,59,Tetracycline,500mg,100,Capsules,NULL,NULL,NULL,NULL,NULL,0
+59,60,Amitryptiline,25mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+60,61,Arthemeter/Lumefantrine,20/120mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+61,62,Folic Acid,5mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+62,63,Ferrous Sulphate,300mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+63,64,Ferrous Gluconate,300mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+64,65,Multivitamin,NULL,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+65,66,Multivitamin,NULL,100,Syrup,NULL,NULL,NULL,NULL,NULL,0
+66,67,Ibuprofen,200mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+67,68,Loperamide,2mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+68,69,Promethezine HCL,25mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+69,70,Tramadol HCL,50mg,100,Capsules,NULL,NULL,NULL,NULL,NULL,0
+70,71,Oral Dehydration Solution,NULL,100,Oral Solution,NULL,NULL,NULL,NULL,NULL,0
+71,72,Fluoxetine,20mg,100,Capsules,NULL,NULL,NULL,NULL,NULL,0
+72,73,Loratidine,10mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+73,74,Metoclopramide,10mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+74,75,Benzoic Acid/Salicylic Acid Ointment,6/3%,100,Creams/Ointment,NULL,NULL,NULL,NULL,NULL,0
+75,76,Hydrocortine,1%,100,Creams/Ointment,NULL,NULL,NULL,NULL,NULL,0
+76,77,Chlorpheniramine,4mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+77,78,Sulphadoxin/Pyrimethamine,500/25mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+78,79,Ibuprofen,400mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+79,80,Nystatin,50000iu,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+80,81,Zithromax,500mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+81,82,Metronidazole,400mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+82,83,Rifampicin,150mg,100,Tablets,NULL,NULL,NULL,NULL,NULL,0
+83,84,Rifampicin,60mg,28,Tablets,NULL,NULL,NULL,NULL,NULL,0
+84,85,Isoniazid,75mg,28,Tablets,NULL,NULL,NULL,NULL,NULL,0
+85,86,Isoniazid,100mg,28,Tablets,NULL,NULL,NULL,NULL,NULL,0
+86,87,Ethambuthol,275mg,28,Tablets,NULL,NULL,NULL,NULL,NULL,0
+87,88,Ethambuthol,400mg,28,Tablets,NULL,NULL,NULL,NULL,NULL,0
+88,89,Pyrazinamide,400mg,28,Tablets,NULL,NULL,NULL,NULL,NULL,0
+89,90,Pyrazinamide,150mg,28,Tablets,NULL,NULL,NULL,NULL,NULL,0
+90,91,Streptomycin,1g,28,Injectables,NULL,NULL,NULL,NULL,NULL,0
+91,92,Ethambuthol/Isoniazid,400/150mg,28,Tablets,NULL,NULL,NULL,NULL,NULL,0
+92,93,Rifampicin/Isoniazid,150/75mg,28,Tablets,NULL,NULL,NULL,NULL,NULL,0
+93,94,Rifampicin/Isoniazid,60/30mg,28,Tablets,NULL,NULL,NULL,NULL,NULL,0
+94,95,Rifampicin/Isoniazid/Pyrazinamide,60/30/150mg,28,Tablets,NULL,NULL,NULL,NULL,NULL,0
+95,96,Rifampicin/Isoniazid/Pyrazinamide/Ethambuthol,150/75/400/275mg,28,Tablets,NULL,NULL,NULL,NULL,NULL,0
+96,97,Zidovudine/Lamivudine/Nevirapine,300/150/200mg,60,Tablets,NULL,NULL,NULL,NULL,NULL,0
+97,98,Isoniazid,300mg,24,Tablets,NULL,NULL,NULL,NULL,NULL,0
+98,99,Dolutegravir,50mg,24,Tablets,NULL,NULL,NULL,NULL,NULL,0
+99,100,Lopinavir/Ritonavir,40/10mg,24,Pellet,NULL,NULL,NULL,NULL,NULL,0
+100,101,Abacavir,600mg,60,Tablets,NULL,NULL,NULL,NULL,NULL,0
+101,1,Lopinavir/Ritonavir,200/50mg,60,Capsules,NULL,NULL,NULL,NULL,NULL,0

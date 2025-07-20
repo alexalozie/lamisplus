@@ -1,0 +1,7 @@
+id,name,description,archived,created_by,date_created,date_modified,modified_by
+1,ICD10,ICD10,0,NULL,NULL,NULL,NULL
+2,LOINC,LOINC,0,NULL,NULL,NULL,NULL
+3,RxNORM,RxNORM,0,NULL,NULL,NULL,NULL
+4,NDR,NDR,0,NULL,NULL,NULL,NULL
+5,LIMS,LIMS,0,NULL,NULL,NULL,NULL
+7,testnormal,TEST,1,NULL,NULL,2020-11-22 18:34:27.619,abc@mail.com

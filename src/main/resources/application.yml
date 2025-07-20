@@ -1,0 +1,12 @@
+#spring:
+#  datasource:
+#    driverClassName: org.postgresql.Driver
+#    url: jdbc:postgresql://localhost/lamisplus?autoReconnect=true
+#    username: postgres
+#    password: admin
+#
+#  jpa:
+#    hibernate:
+#      use-new-id-generator-mappings: false
+#  liquibase:
+#    change-log: classpath:/installers/changelog.xml

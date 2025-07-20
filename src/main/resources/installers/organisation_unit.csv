@@ -1,0 +1,1316 @@
+id,name,description,organisation_unit_level_id,parent_organisation_unit_id,archived,address,phone,email,latitude,longitude
+0,World,World,NULL,NULL,0,NULL,NULL,NULL,NULL,NULL
+1,Nigeria,Nigeria County in Africa,1,0,0,NULL,NULL,NULL,NULL,NULL
+2,Abia,Abia state in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+3,Adamawa,Adamawa state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+4,Akwa Ibom,Akwa Ibom state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+5,Anambra,Anambra  state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+6,Bauchi,Bauchi state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+7,Bayelsa,Bayelsa state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+8,Benue,Benue state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+9,Borno,Borno state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+10,Cross River,Cross River state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+11,Delta,Delta state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+12,Ebonyi,Ebonyi state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+13,Edo,Edo state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+14,Ekiti,Ekiti state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+15,Enugu,Enugu state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+16,FCT,FCT capital city of Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+17,Gombe,Gombe state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+18,Imo,Imo state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+19,Jigawa,Jigawa state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+20,Kaduna,Kaduna state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+21,Kano,Kano state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+22,Katsina,Katsina state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+23,Kebbi,Kebbi state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+24,Kogi,Kogi state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+25,Kwara,Kwara state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+26,Lagos,Lagos state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+27,Nasarawa,Nasarawa state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+28,Niger,Niger state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+29,Ogun,Ogun state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+30,Ondo,Ondo state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+31,Osun,Osun state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+32,Oyo,Oyo state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+33,Plateau,Plateau state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+34,Rivers,Rivers state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+35,Sokoto,Sokoto state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+36,Taraba,Taraba state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+37,Yobe,Yobe state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+38,Zamfara,Zamfara state  in Nigeria,2,1,0,NULL,NULL,NULL,NULL,NULL
+39,Aba North,Local government in Abia State,3,2,0,NULL,NULL,NULL,NULL,NULL
+40,Aba South,Local government in Abia State,3,2,0,NULL,NULL,NULL,NULL,NULL
+41,Arochukwu,Local government in Abia State,3,2,0,NULL,NULL,NULL,NULL,NULL
+42,Bende,Local government in Abia State,3,2,0,NULL,NULL,NULL,NULL,NULL
+43,Ikwuano,Local government in Abia State,3,2,0,NULL,NULL,NULL,NULL,NULL
+44,Isiala Ngwa North,Local government in Abia State,3,2,0,NULL,NULL,NULL,NULL,NULL
+45,Isiala Ngwa South,Local government in Abia State,3,2,0,NULL,NULL,NULL,NULL,NULL
+46,Isuikwuato,Local government in Abia State,3,2,0,NULL,NULL,NULL,NULL,NULL
+47,Obi Ngwa,Local government in Abia State,3,2,0,NULL,NULL,NULL,NULL,NULL
+48,Ohafia,Local government in Abia State,3,2,0,NULL,NULL,NULL,NULL,NULL
+49,Osisioma,Local government in Abia State,3,2,0,NULL,NULL,NULL,NULL,NULL
+50,Ugwunagbo,Local government in Abia State,3,2,0,NULL,NULL,NULL,NULL,NULL
+51,Ukwa East,Local government in Abia State,3,2,0,NULL,NULL,NULL,NULL,NULL
+52,Ukwa West,Local government in Abia State,3,2,0,NULL,NULL,NULL,NULL,NULL
+53,Umuahia North,Local government in Abia State,3,2,0,NULL,NULL,NULL,NULL,NULL
+54,Umuahia South,Local government in Abia State,3,2,0,NULL,NULL,NULL,NULL,NULL
+55,Umu Nneochi,Local government in Abia State,3,2,0,NULL,NULL,NULL,NULL,NULL
+56,Demsa,Local government in Adamawa State,3,3,0,NULL,NULL,NULL,NULL,NULL
+57,Fufore,Local government in Adamawa State,3,3,0,NULL,NULL,NULL,NULL,NULL
+58,Ganye,Local government in Adamawa State,3,3,0,NULL,NULL,NULL,NULL,NULL
+59,Gayuk,Local government in Adamawa State,3,3,0,NULL,NULL,NULL,NULL,NULL
+60,Gombi,Local government in Adamawa State,3,3,0,NULL,NULL,NULL,NULL,NULL
+61,Grie,Local government in Adamawa State,3,3,0,NULL,NULL,NULL,NULL,NULL
+62,Hong,Local government in Adamawa State,3,3,0,NULL,NULL,NULL,NULL,NULL
+63,Jada,Local government in Adamawa State,3,3,0,NULL,NULL,NULL,NULL,NULL
+64,Larmurde,Local government in Adamawa State,3,3,0,NULL,NULL,NULL,NULL,NULL
+65,Madagali,Local government in Adamawa State,3,3,0,NULL,NULL,NULL,NULL,NULL
+66,Maiha,Local government in Adamawa State,3,3,0,NULL,NULL,NULL,NULL,NULL
+67,Mayo Belwa,Local government in Adamawa State,3,3,0,NULL,NULL,NULL,NULL,NULL
+68,Michika,Local government in Adamawa State,3,3,0,NULL,NULL,NULL,NULL,NULL
+69,Mubi North,Local government in Adamawa State,3,3,0,NULL,NULL,NULL,NULL,NULL
+70,Mubi South,Local government in Adamawa State,3,3,0,NULL,NULL,NULL,NULL,NULL
+71,Numan,Local government in Adamawa State,3,3,0,NULL,NULL,NULL,NULL,NULL
+72,Shelleng,Local government in Adamawa State,3,3,0,NULL,NULL,NULL,NULL,NULL
+73,Song,Local government in Adamawa State,3,3,0,NULL,NULL,NULL,NULL,NULL
+74,Toungo,Local government in Adamawa State,3,3,0,NULL,NULL,NULL,NULL,NULL
+75,Yola North,Local government in Adamawa State,3,3,0,NULL,NULL,NULL,NULL,NULL
+76,Yola South,Local government in Adamawa State,3,3,0,NULL,NULL,NULL,NULL,NULL
+77,Abak,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+78,Eastern Obolo,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+79,Eket,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+80,Esit Eket,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+81,Essien Udim,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+82,Etim Ekpo,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+83,Etinan,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+84,Ibeno,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+85,Ibesikpo Asutan,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+86,Ibiono-Ibom,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+87,Ika,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+88,Ikono,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+89,Ikot Abasi,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+90,Ikot Ekpene,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+91,Ini,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+92,Itu,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+93,Mbo,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+94,Mkpat-Enin,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+95,Nsit-Atai,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+96,Nsit-Ibom,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+97,Nsit-Ubium,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+98,Obot Akara,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+99,Okobo,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+100,Onna,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+101,Oron,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+102,Oruk Anam,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+103,Udung-Uko,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+104,Ukanafun,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+105,Uruan,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+106,Urue-Offong/Oruko,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+107,Uyo,Local government in Akwa Ibom State,3,4,0,NULL,NULL,NULL,NULL,NULL
+108,Aguata,Local government in Anambra State,3,5,0,NULL,NULL,NULL,NULL,NULL
+109,Anambra East,Local government in Anambra State,3,5,0,NULL,NULL,NULL,NULL,NULL
+110,Anambra West,Local government in Anambra State,3,5,0,NULL,NULL,NULL,NULL,NULL
+111,Anaocha,Local government in Anambra State,3,5,0,NULL,NULL,NULL,NULL,NULL
+112,Awka North,Local government in Anambra State,3,5,0,NULL,NULL,NULL,NULL,NULL
+113,Awka South,Local government in Anambra State,3,5,0,NULL,NULL,NULL,NULL,NULL
+114,Ayamelum,Local government in Anambra State,3,5,0,NULL,NULL,NULL,NULL,NULL
+115,Dunukofia,Local government in Anambra State,3,5,0,NULL,NULL,NULL,NULL,NULL
+116,Ekwusigo,Local government in Anambra State,3,5,0,NULL,NULL,NULL,NULL,NULL
+117,Idemili North,Local government in Anambra State,3,5,0,NULL,NULL,NULL,NULL,NULL
+118,Idemili South,Local government in Anambra State,3,5,0,NULL,NULL,NULL,NULL,NULL
+119,Ihiala,Local government in Anambra State,3,5,0,NULL,NULL,NULL,NULL,NULL
+120,Njikoka,Local government in Anambra State,3,5,0,NULL,NULL,NULL,NULL,NULL
+121,Nnewi North,Local government in Anambra State,3,5,0,NULL,NULL,NULL,NULL,NULL
+122,Nnewi South,Local government in Anambra State,3,5,0,NULL,NULL,NULL,NULL,NULL
+123,Ogbaru,Local government in Anambra State,3,5,0,NULL,NULL,NULL,NULL,NULL
+124,Onitsha North,Local government in Anambra State,3,5,0,NULL,NULL,NULL,NULL,NULL
+125,Onitsha South,Local government in Anambra State,3,5,0,NULL,NULL,NULL,NULL,NULL
+126,Orumba North,Local government in Anambra State,3,5,0,NULL,NULL,NULL,NULL,NULL
+127,Orumba South,Local government in Anambra State,3,5,0,NULL,NULL,NULL,NULL,NULL
+128,Oyi,Local government in Anambra State,3,5,0,NULL,NULL,NULL,NULL,NULL
+129,Alkaleri,Local government in Bauchi State,3,6,0,NULL,NULL,NULL,NULL,NULL
+130,Bauchi,Local government in Bauchi State,3,6,0,NULL,NULL,NULL,NULL,NULL
+131,Bogoro,Local government in Bauchi State,3,6,0,NULL,NULL,NULL,NULL,NULL
+132,Damban,Local government in Bauchi State,3,6,0,NULL,NULL,NULL,NULL,NULL
+133,Darazo,Local government in Bauchi State,3,6,0,NULL,NULL,NULL,NULL,NULL
+134,Dass,Local government in Bauchi State,3,6,0,NULL,NULL,NULL,NULL,NULL
+135,Gamawa,Local government in Bauchi State,3,6,0,NULL,NULL,NULL,NULL,NULL
+136,Ganjuwa,Local government in Bauchi State,3,6,0,NULL,NULL,NULL,NULL,NULL
+137,Giade,Local government in Bauchi State,3,6,0,NULL,NULL,NULL,NULL,NULL
+138,Itas/Gadau,Local government in Bauchi State,3,6,0,NULL,NULL,NULL,NULL,NULL
+139,Jama'are,Local government in Bauchi State,3,6,0,NULL,NULL,NULL,NULL,NULL
+140,Katagum,Local government in Bauchi State,3,6,0,NULL,NULL,NULL,NULL,NULL
+141,Kirfi,Local government in Bauchi State,3,6,0,NULL,NULL,NULL,NULL,NULL
+142,Misau,Local government in Bauchi State,3,6,0,NULL,NULL,NULL,NULL,NULL
+143,Ningi,Local government in Bauchi State,3,6,0,NULL,NULL,NULL,NULL,NULL
+144,Shira,Local government in Bauchi State,3,6,0,NULL,NULL,NULL,NULL,NULL
+145,Tafawa Balewa,Local government in Bauchi State,3,6,0,NULL,NULL,NULL,NULL,NULL
+146,Toro,Local government in Bauchi State,3,6,0,NULL,NULL,NULL,NULL,NULL
+147,Warji,Local government in Bauchi State,3,6,0,NULL,NULL,NULL,NULL,NULL
+148,Zaki,Local government in Bauchi State,3,6,0,NULL,NULL,NULL,NULL,NULL
+149,Brass,Local government in Bayelsa State,3,7,0,NULL,NULL,NULL,NULL,NULL
+150,Ekeremor,Local government in Bayelsa State,3,7,0,NULL,NULL,NULL,NULL,NULL
+151,Kolokuma/Opokuma,Local government in Bayelsa State,3,7,0,NULL,NULL,NULL,NULL,NULL
+152,Nembe,Local government in Bayelsa State,3,7,0,NULL,NULL,NULL,NULL,NULL
+153,Ogbia,Local government in Bayelsa State,3,7,0,NULL,NULL,NULL,NULL,NULL
+154,Sagbama,Local government in Bayelsa State,3,7,0,NULL,NULL,NULL,NULL,NULL
+155,Southern Ijaw,Local government in Bayelsa State,3,7,0,NULL,NULL,NULL,NULL,NULL
+156,Yenagoa,Local government in Bayelsa State,3,7,0,NULL,NULL,NULL,NULL,NULL
+157,Agatu,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+158,Apa,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+159,Ado,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+160,Buruku,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+161,Gboko,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+162,Guma,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+163,Gwer East,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+164,Gwer West,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+165,Katsina-Ala,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+166,Konshisha,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+167,Kwande,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+168,Logo,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+169,Makurdi,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+170,Obi,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+171,Ogbadibo,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+172,Ohimini,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+173,Oju,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+174,Okpokwu,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+175,Oturkpo,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+176,Tarka,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+177,Ukum,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+178,Ushongo,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+179,Vandeikya,Local government in Benue State,3,8,0,NULL,NULL,NULL,NULL,NULL
+180,Abadam,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+181,Askira/Uba,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+182,Bama,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+183,Bayo,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+184,Biu,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+185,Chibok,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+186,Damboa,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+187,Dikwa,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+188,Gubio,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+189,Guzamala,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+190,Gwoza,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+191,Hawul,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+192,Jere,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+193,Kaga,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+194,Kala/Balge,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+195,Konduga,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+196,Kukawa,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+197,Kwaya Kusar,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+198,Mafa,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+199,Magumeri,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+200,Maiduguri,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+201,Marte,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+202,Mobbar,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+203,Monguno,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+204,Ngala,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+205,Nganzai,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+206,Shani,Local government in Borno State,3,9,0,NULL,NULL,NULL,NULL,NULL
+207,Abi,Local government in Cross River State,3,10,0,NULL,NULL,NULL,NULL,NULL
+208,Akamkpa,Local government in Cross River State,3,10,0,NULL,NULL,NULL,NULL,NULL
+209,Akpabuyo,Local government in Cross River State,3,10,0,NULL,NULL,NULL,NULL,NULL
+210,Bakassi,Local government in Cross River State,3,10,0,NULL,NULL,NULL,NULL,NULL
+211,Bekwarra,Local government in Cross River State,3,10,0,NULL,NULL,NULL,NULL,NULL
+212,Biase,Local government in Cross River State,3,10,0,NULL,NULL,NULL,NULL,NULL
+213,Boki,Local government in Cross River State,3,10,0,NULL,NULL,NULL,NULL,NULL
+214,Calabar Municipal,Local government in Cross River State,3,10,0,NULL,NULL,NULL,NULL,NULL
+215,Calabar South,Local government in Cross River State,3,10,0,NULL,NULL,NULL,NULL,NULL
+216,Etung,Local government in Cross River State,3,10,0,NULL,NULL,NULL,NULL,NULL
+217,Ikom,Local government in Cross River State,3,10,0,NULL,NULL,NULL,NULL,NULL
+218,Obanliku,Local government in Cross River State,3,10,0,NULL,NULL,NULL,NULL,NULL
+219,Obubra,Local government in Cross River State,3,10,0,NULL,NULL,NULL,NULL,NULL
+220,Obudu,Local government in Cross River State,3,10,0,NULL,NULL,NULL,NULL,NULL
+221,Odukpani,Local government in Cross River State,3,10,0,NULL,NULL,NULL,NULL,NULL
+222,Ogoja,Local government in Cross River State,3,10,0,NULL,NULL,NULL,NULL,NULL
+223,Yakuur,Local government in Cross River State,3,10,0,NULL,NULL,NULL,NULL,NULL
+224,Yala,Local government in Cross River State,3,10,0,NULL,NULL,NULL,NULL,NULL
+225,Aniocha North,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+226,Aniocha South,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+227,Bomadi,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+228,Burutu,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+229,Ethiope East,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+230,Ethiope West,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+231,Ika North East,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+232,Ika South,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+233,Isoko North,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+234,Isoko South,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+235,Ndokwa East,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+236,Ndokwa West,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+237,Okpe,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+238,Oshimili North,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+239,Oshimili South,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+240,Patani,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+241,Sapele,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+242,Udu,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+243,Ughelli North,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+244,Ughelli South,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+245,Ukwuani,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+246,Uvwie,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+247,Warri North,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+248,Warri South,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+249,Warri South West,Local government in Delta State,3,11,0,NULL,NULL,NULL,NULL,NULL
+250,Abakaliki,Local government in Ebonyi State,3,12,0,NULL,NULL,NULL,NULL,NULL
+251,Afikpo North,Local government in Ebonyi State,3,12,0,NULL,NULL,NULL,NULL,NULL
+252,Afikpo South,Local government in Ebonyi State,3,12,0,NULL,NULL,NULL,NULL,NULL
+253,Ebonyi,Local government in Ebonyi State,3,12,0,NULL,NULL,NULL,NULL,NULL
+254,Ezza North,Local government in Ebonyi State,3,12,0,NULL,NULL,NULL,NULL,NULL
+255,Ezza South,Local government in Ebonyi State,3,12,0,NULL,NULL,NULL,NULL,NULL
+256,Ikwo,Local government in Ebonyi State,3,12,0,NULL,NULL,NULL,NULL,NULL
+257,Ishielu,Local government in Ebonyi State,3,12,0,NULL,NULL,NULL,NULL,NULL
+258,Ivo,Local government in Ebonyi State,3,12,0,NULL,NULL,NULL,NULL,NULL
+259,Izzi,Local government in Ebonyi State,3,12,0,NULL,NULL,NULL,NULL,NULL
+260,Ohaozara,Local government in Ebonyi State,3,12,0,NULL,NULL,NULL,NULL,NULL
+261,Ohaukwu,Local government in Ebonyi State,3,12,0,NULL,NULL,NULL,NULL,NULL
+262,Onicha,Local government in Ebonyi State,3,12,0,NULL,NULL,NULL,NULL,NULL
+263,Akoko-Edo,Local government in Edo State,3,13,0,NULL,NULL,NULL,NULL,NULL
+264,Egor,Local government in Edo State,3,13,0,NULL,NULL,NULL,NULL,NULL
+265,Esan Central,Local government in Edo State,3,13,0,NULL,NULL,NULL,NULL,NULL
+266,Esan North-East,Local government in Edo State,3,13,0,NULL,NULL,NULL,NULL,NULL
+267,Esan South-East,Local government in Edo State,3,13,0,NULL,NULL,NULL,NULL,NULL
+268,Esan West,Local government in Edo State,3,13,0,NULL,NULL,NULL,NULL,NULL
+269,Etsako Central,Local government in Edo State,3,13,0,NULL,NULL,NULL,NULL,NULL
+270,Etsako East,Local government in Edo State,3,13,0,NULL,NULL,NULL,NULL,NULL
+271,Etsako West,Local government in Edo State,3,13,0,NULL,NULL,NULL,NULL,NULL
+272,Igueben,Local government in Edo State,3,13,0,NULL,NULL,NULL,NULL,NULL
+273,Ikpoba Okha,Local government in Edo State,3,13,0,NULL,NULL,NULL,NULL,NULL
+274,Orhionmwon,Local government in Edo State,3,13,0,NULL,NULL,NULL,NULL,NULL
+275,Oredo,Local government in Edo State,3,13,0,NULL,NULL,NULL,NULL,NULL
+276,Ovia North-East,Local government in Edo State,3,13,0,NULL,NULL,NULL,NULL,NULL
+277,Ovia South-West,Local government in Edo State,3,13,0,NULL,NULL,NULL,NULL,NULL
+278,Owan East,Local government in Edo State,3,13,0,NULL,NULL,NULL,NULL,NULL
+279,Owan West,Local government in Edo State,3,13,0,NULL,NULL,NULL,NULL,NULL
+280,Uhunmwonde,Local government in Edo State,3,13,0,NULL,NULL,NULL,NULL,NULL
+281,Ado Ekiti,Local government in Ekiti State,3,14,0,NULL,NULL,NULL,NULL,NULL
+282,Efon,Local government in Ekiti State,3,14,0,NULL,NULL,NULL,NULL,NULL
+283,Ekiti East,Local government in Ekiti State,3,14,0,NULL,NULL,NULL,NULL,NULL
+284,Ekiti South-West,Local government in Ekiti State,3,14,0,NULL,NULL,NULL,NULL,NULL
+285,Ekiti West,Local government in Ekiti State,3,14,0,NULL,NULL,NULL,NULL,NULL
+286,Emure,Local government in Ekiti State,3,14,0,NULL,NULL,NULL,NULL,NULL
+287,Gbonyin,Local government in Ekiti State,3,14,0,NULL,NULL,NULL,NULL,NULL
+288,Ido Osi,Local government in Ekiti State,3,14,0,NULL,NULL,NULL,NULL,NULL
+289,Ijero,Local government in Ekiti State,3,14,0,NULL,NULL,NULL,NULL,NULL
+290,Ikere,Local government in Ekiti State,3,14,0,NULL,NULL,NULL,NULL,NULL
+291,Ikole,Local government in Ekiti State,3,14,0,NULL,NULL,NULL,NULL,NULL
+292,Ilejemeje,Local government in Ekiti State,3,14,0,NULL,NULL,NULL,NULL,NULL
+293,Irepodun/Ifelodun,Local government in Ekiti State,3,14,0,NULL,NULL,NULL,NULL,NULL
+294,Ise/Orun,Local government in Ekiti State,3,14,0,NULL,NULL,NULL,NULL,NULL
+295,Moba,Local government in Ekiti State,3,14,0,NULL,NULL,NULL,NULL,NULL
+296,Oye,Local government in Ekiti State,3,14,0,NULL,NULL,NULL,NULL,NULL
+297,Aninri,Local government in Enugu State,3,15,0,NULL,NULL,NULL,NULL,NULL
+298,Awgu,Local government in Enugu State,3,15,0,NULL,NULL,NULL,NULL,NULL
+299,Enugu East,Local government in Enugu State,3,15,0,NULL,NULL,NULL,NULL,NULL
+300,Enugu North,Local government in Enugu State,3,15,0,NULL,NULL,NULL,NULL,NULL
+301,Enugu South,Local government in Enugu State,3,15,0,NULL,NULL,NULL,NULL,NULL
+302,Ezeagu,Local government in Enugu State,3,15,0,NULL,NULL,NULL,NULL,NULL
+303,Igbo Etiti,Local government in Enugu State,3,15,0,NULL,NULL,NULL,NULL,NULL
+304,Igbo Eze North,Local government in Enugu State,3,15,0,NULL,NULL,NULL,NULL,NULL
+305,Igbo Eze South,Local government in Enugu State,3,15,0,NULL,NULL,NULL,NULL,NULL
+306,Isi Uzo,Local government in Enugu State,3,15,0,NULL,NULL,NULL,NULL,NULL
+307,Nkanu East,Local government in Enugu State,3,15,0,NULL,NULL,NULL,NULL,NULL
+308,Nkanu West,Local government in Enugu State,3,15,0,NULL,NULL,NULL,NULL,NULL
+309,Nsukka,Local government in Enugu State,3,15,0,NULL,NULL,NULL,NULL,NULL
+310,Oji River,Local government in Enugu State,3,15,0,NULL,NULL,NULL,NULL,NULL
+311,Udenu,Local government in Enugu State,3,15,0,NULL,NULL,NULL,NULL,NULL
+312,Udi,Local government in Enugu State,3,15,0,NULL,NULL,NULL,NULL,NULL
+313,Uzo Uwani,Local government in Enugu State,3,15,0,NULL,NULL,NULL,NULL,NULL
+314,Abaji,Local government in FCT,3,16,0,NULL,NULL,NULL,NULL,NULL
+315,Bwari,Local government in FCT,3,16,0,NULL,NULL,NULL,NULL,NULL
+316,Gwagwalada,Local government in FCT,3,16,0,NULL,NULL,NULL,NULL,NULL
+317,Kuje,Local government in FCT,3,16,0,NULL,NULL,NULL,NULL,NULL
+318,Kwali,Local government in FCT,3,16,0,NULL,NULL,NULL,NULL,NULL
+319,Abuja Municipal,Local government in FCT,3,16,0,NULL,NULL,NULL,NULL,NULL
+320,Akko,Local government in Gombe State,3,17,0,NULL,NULL,NULL,NULL,NULL
+321,Balanga,Local government in Gombe State,3,17,0,NULL,NULL,NULL,NULL,NULL
+322,Billiri,Local government in Gombe State,3,17,0,NULL,NULL,NULL,NULL,NULL
+323,Dukku,Local government in Gombe State,3,17,0,NULL,NULL,NULL,NULL,NULL
+324,Funakaye,Local government in Gombe State,3,17,0,NULL,NULL,NULL,NULL,NULL
+325,Gombe,Local government in Gombe State,3,17,0,NULL,NULL,NULL,NULL,NULL
+326,Kaltungo,Local government in Gombe State,3,17,0,NULL,NULL,NULL,NULL,NULL
+327,Kwami,Local government in Gombe State,3,17,0,NULL,NULL,NULL,NULL,NULL
+328,Nafada,Local government in Gombe State,3,17,0,NULL,NULL,NULL,NULL,NULL
+329,Shongom,Local government in Gombe State,3,17,0,NULL,NULL,NULL,NULL,NULL
+330,Yamaltu/Deba,Local government in Gombe State,3,17,0,NULL,NULL,NULL,NULL,NULL
+331,Aboh Mbaise,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+332,Ahiazu Mbaise,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+333,Ehime Mbano,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+334,Ezinihitte,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+335,Ideato North,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+336,Ideato South,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+337,Ihitte/Uboma,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+338,Ikeduru,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+339,Isiala Mbano,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+340,Isu,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+341,Mbaitoli,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+342,Ngor Okpala,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+343,Njaba,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+344,Nkwerre,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+345,Nwangele,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+346,Obowo,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+347,Oguta,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+348,Ohaji/Egbema,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+349,Okigwe,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+350,Orlu,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+351,Orsu,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+352,Oru East,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+353,Oru West,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+354,Owerri Municipal,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+355,Owerri North,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+356,Owerri West,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+357,Unuimo,Local government in Imo State,3,18,0,NULL,NULL,NULL,NULL,NULL
+358,Auyo,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+359,Babura,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+360,Biriniwa,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+361,Birnin Kudu,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+362,Buji,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+363,Dutse,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+364,Gagarawa,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+365,Garki,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+366,Gumel,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+367,Guri,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+368,Gwaram,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+369,Gwiwa,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+370,Hadejia,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+371,Jahun,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+372,Kafin Hausa,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+373,Kazaure,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+374,Kiri Kasama,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+375,Kiyawa,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+376,Kaugama,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+377,Maigatari,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+378,Malam Madori,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+379,Miga,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+380,Ringim,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+381,Roni,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+382,Sule Tankarkar,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+383,Taura,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+384,Yankwashi,Local government in Jigawa State,3,19,0,NULL,NULL,NULL,NULL,NULL
+385,Birnin Gwari,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+386,Chikun,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+387,Giwa,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+388,Igabi,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+389,Ikara,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+390,Jaba,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+391,Jema'a,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+392,Kachia,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+393,Kaduna North,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+394,Kaduna South,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+395,Kagarko,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+396,Kajuru,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+397,Kaura,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+398,Kauru,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+399,Kubau,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+400,Kudan,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+401,Lere,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+402,Makarfi,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+403,Sabon Gari,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+404,Sanga,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+405,Soba,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+406,Zangon Kataf,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+407,Zaria,Local government in Kaduna State,3,20,0,NULL,NULL,NULL,NULL,NULL
+408,Ajingi,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+409,Albasu,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+410,Bagwai,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+411,Bebeji,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+412,Bichi,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+413,Bunkure,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+414,Dala,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+415,Dambatta,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+416,Dawakin Kudu,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+417,Dawakin Tofa,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+418,Doguwa,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+419,Fagge,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+420,Gabasawa,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+421,Garko,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+422,Garun Mallam,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+423,Gaya,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+424,Gezawa,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+425,Gwale,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+426,Gwarzo,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+427,Kabo,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+428,Kano Municipal,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+429,Karaye,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+430,Kibiya,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+431,Kiru,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+432,Kumbotso,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+433,Kunchi,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+434,Kura,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+435,Madobi,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+436,Makoda,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+437,Minjibir,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+438,Nasarawa,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+439,Rano,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+440,Rimin Gado,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+441,Rogo,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+442,Shanono,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+443,Sumaila,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+444,Takai,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+445,Tarauni,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+446,Tofa,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+447,Tsanyawa,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+448,Tudun Wada,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+449,Ungogo,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+450,Warawa,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+451,Wudil,Local government in Kano State,3,21,0,NULL,NULL,NULL,NULL,NULL
+452,Bakori,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+453,Batagarawa,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+454,Batsari,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+455,Baure,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+456,Bindawa,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+457,Charanchi,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+458,Dandume,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+459,Danja,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+460,Dan Musa,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+461,Daura,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+462,Dutsi,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+463,Dutsin Ma,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+464,Faskari,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+465,Funtua,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+466,Ingawa,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+467,Jibia,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+468,Kafur,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+469,Kaita,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+470,Kankara,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+471,Kankia,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+472,Katsina,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+473,Kurfi,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+474,Kusada,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+475,Mai'Adua,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+476,Malumfashi,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+477,Mani,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+478,Mashi,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+479,Matazu,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+480,Musawa,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+481,Rimi,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+482,Sabuwa,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+483,Safana,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+484,Sandamu,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+485,Zango,Local government in Katsina State,3,22,0,NULL,NULL,NULL,NULL,NULL
+486,Aleiro,Local government in Kebbi State,3,23,0,NULL,NULL,NULL,NULL,NULL
+487,Arewa Dandi,Local government in Kebbi State,3,23,0,NULL,NULL,NULL,NULL,NULL
+488,Argungu,Local government in Kebbi State,3,23,0,NULL,NULL,NULL,NULL,NULL
+489,Augie,Local government in Kebbi State,3,23,0,NULL,NULL,NULL,NULL,NULL
+490,Bagudo,Local government in Kebbi State,3,23,0,NULL,NULL,NULL,NULL,NULL
+491,Birnin Kebbi,Local government in Kebbi State,3,23,0,NULL,NULL,NULL,NULL,NULL
+492,Bunza,Local government in Kebbi State,3,23,0,NULL,NULL,NULL,NULL,NULL
+493,Dandi,Local government in Kebbi State,3,23,0,NULL,NULL,NULL,NULL,NULL
+494,Fakai,Local government in Kebbi State,3,23,0,NULL,NULL,NULL,NULL,NULL
+495,Gwandu,Local government in Kebbi State,3,23,0,NULL,NULL,NULL,NULL,NULL
+496,Jega,Local government in Kebbi State,3,23,0,NULL,NULL,NULL,NULL,NULL
+497,Kalgo,Local government in Kebbi State,3,23,0,NULL,NULL,NULL,NULL,NULL
+498,Koko/Besse,Local government in Kebbi State,3,23,0,NULL,NULL,NULL,NULL,NULL
+499,Maiyama,Local government in Kebbi State,3,23,0,NULL,NULL,NULL,NULL,NULL
+500,Ngaski,Local government in Kebbi State,3,23,0,NULL,NULL,NULL,NULL,NULL
+501,Sakaba,Local government in Kebbi State,3,23,0,NULL,NULL,NULL,NULL,NULL
+502,Shanga,Local government in Kebbi State,3,23,0,NULL,NULL,NULL,NULL,NULL
+503,Suru,Local government in Kebbi State,3,23,0,NULL,NULL,NULL,NULL,NULL
+504,Wasagu/Danko,Local government in Kebbi State,3,23,0,NULL,NULL,NULL,NULL,NULL
+505,Yauri,Local government in Kebbi State,3,23,0,NULL,NULL,NULL,NULL,NULL
+506,Zuru,Local government in Kebbi State,3,23,0,NULL,NULL,NULL,NULL,NULL
+507,Adavi,Local government in Kogi State,3,24,0,NULL,NULL,NULL,NULL,NULL
+508,Ajaokuta,Local government in Kogi State,3,24,0,NULL,NULL,NULL,NULL,NULL
+509,Ankpa,Local government in Kogi State,3,24,0,NULL,NULL,NULL,NULL,NULL
+510,Bassa,Local government in Kogi State,3,24,0,NULL,NULL,NULL,NULL,NULL
+511,Dekina,Local government in Kogi State,3,24,0,NULL,NULL,NULL,NULL,NULL
+512,Ibaji,Local government in Kogi State,3,24,0,NULL,NULL,NULL,NULL,NULL
+513,Idah,Local government in Kogi State,3,24,0,NULL,NULL,NULL,NULL,NULL
+514,Igalamela Odolu,Local government in Kogi State,3,24,0,NULL,NULL,NULL,NULL,NULL
+515,Ijumu,Local government in Kogi State,3,24,0,NULL,NULL,NULL,NULL,NULL
+516,Kabba/Bunu,Local government in Kogi State,3,24,0,NULL,NULL,NULL,NULL,NULL
+517,Kogi,Local government in Kogi State,3,24,0,NULL,NULL,NULL,NULL,NULL
+518,Lokoja,Local government in Kogi State,3,24,0,NULL,NULL,NULL,NULL,NULL
+519,Mopa Muro,Local government in Kogi State,3,24,0,NULL,NULL,NULL,NULL,NULL
+520,Ofu,Local government in Kogi State,3,24,0,NULL,NULL,NULL,NULL,NULL
+521,Ogori/Magongo,Local government in Kogi State,3,24,0,NULL,NULL,NULL,NULL,NULL
+522,Okehi,Local government in Kogi State,3,24,0,NULL,NULL,NULL,NULL,NULL
+523,Okene,Local government in Kogi State,3,24,0,NULL,NULL,NULL,NULL,NULL
+524,Olamaboro,Local government in Kogi State,3,24,0,NULL,NULL,NULL,NULL,NULL
+525,Omala,Local government in Kogi State,3,24,0,NULL,NULL,NULL,NULL,NULL
+526,Yagba East,Local government in Kogi State,3,24,0,NULL,NULL,NULL,NULL,NULL
+527,Yagba West,Local government in Kogi State,3,24,0,NULL,NULL,NULL,NULL,NULL
+528,Asa,Local government in Kwara State,3,25,0,NULL,NULL,NULL,NULL,NULL
+529,Baruten,Local government in Kwara State,3,25,0,NULL,NULL,NULL,NULL,NULL
+530,Edu,Local government in Kwara State,3,25,0,NULL,NULL,NULL,NULL,NULL
+531,Ekiti,Local government in Kwara State,3,25,0,NULL,NULL,NULL,NULL,NULL
+532,Ifelodun,Local government in Kwara State,3,25,0,NULL,NULL,NULL,NULL,NULL
+533,Ilorin East,Local government in Kwara State,3,25,0,NULL,NULL,NULL,NULL,NULL
+534,Ilorin South,Local government in Kwara State,3,25,0,NULL,NULL,NULL,NULL,NULL
+535,Ilorin West,Local government in Kwara State,3,25,0,NULL,NULL,NULL,NULL,NULL
+536,Irepodun,Local government in Kwara State,3,25,0,NULL,NULL,NULL,NULL,NULL
+537,Isin,Local government in Kwara State,3,25,0,NULL,NULL,NULL,NULL,NULL
+538,Kaiama,Local government in Kwara State,3,25,0,NULL,NULL,NULL,NULL,NULL
+539,Moro,Local government in Kwara State,3,25,0,NULL,NULL,NULL,NULL,NULL
+540,Offa,Local government in Kwara State,3,25,0,NULL,NULL,NULL,NULL,NULL
+541,Oke Ero,Local government in Kwara State,3,25,0,NULL,NULL,NULL,NULL,NULL
+542,Oyun,Local government in Kwara State,3,25,0,NULL,NULL,NULL,NULL,NULL
+543,Pategi,Local government in Kwara State,3,25,0,NULL,NULL,NULL,NULL,NULL
+544,Agege,Local government in Lagos State,3,26,0,NULL,NULL,NULL,NULL,NULL
+545,Ajeromi-Ifelodun,Local government in Lagos State,3,26,0,NULL,NULL,NULL,NULL,NULL
+546,Alimosho,Local government in Lagos State,3,26,0,NULL,NULL,NULL,NULL,NULL
+547,Amuwo-Odofin,Local government in Lagos State,3,26,0,NULL,NULL,NULL,NULL,NULL
+548,Apapa,Local government in Lagos State,3,26,0,NULL,NULL,NULL,NULL,NULL
+549,Badagry,Local government in Lagos State,3,26,0,NULL,NULL,NULL,NULL,NULL
+550,Epe,Local government in Lagos State,3,26,0,NULL,NULL,NULL,NULL,NULL
+551,Eti Osa,Local government in Lagos State,3,26,0,NULL,NULL,NULL,NULL,NULL
+552,Ibeju-Lekki,Local government in Lagos State,3,26,0,NULL,NULL,NULL,NULL,NULL
+553,Ifako-Ijaiye,Local government in Lagos State,3,26,0,NULL,NULL,NULL,NULL,NULL
+554,Ikeja,Local government in Lagos State,3,26,0,NULL,NULL,NULL,NULL,NULL
+555,Ikorodu,Local government in Lagos State,3,26,0,NULL,NULL,NULL,NULL,NULL
+556,Kosofe,Local government in Lagos State,3,26,0,NULL,NULL,NULL,NULL,NULL
+557,Lagos Island,Local government in Lagos State,3,26,0,NULL,NULL,NULL,NULL,NULL
+558,Lagos Mainland,Local government in Lagos State,3,26,0,NULL,NULL,NULL,NULL,NULL
+559,Mushin,Local government in Lagos State,3,26,0,NULL,NULL,NULL,NULL,NULL
+560,Ojo,Local government in Lagos State,3,26,0,NULL,NULL,NULL,NULL,NULL
+561,Oshodi-Isolo,Local government in Lagos State,3,26,0,NULL,NULL,NULL,NULL,NULL
+562,Shomolu,Local government in Lagos State,3,26,0,NULL,NULL,NULL,NULL,NULL
+563,Surulere,Local government in Lagos State,3,26,0,NULL,NULL,NULL,NULL,NULL
+564,Akwanga,Local government in Nasarawa State,3,27,0,NULL,NULL,NULL,NULL,NULL
+565,Awe,Local government in Nasarawa State,3,27,0,NULL,NULL,NULL,NULL,NULL
+566,Doma,Local government in Nasarawa State,3,27,0,NULL,NULL,NULL,NULL,NULL
+567,Karu,Local government in Nasarawa State,3,27,0,NULL,NULL,NULL,NULL,NULL
+568,Keana,Local government in Nasarawa State,3,27,0,NULL,NULL,NULL,NULL,NULL
+569,Keffi,Local government in Nasarawa State,3,27,0,NULL,NULL,NULL,NULL,NULL
+570,Kokona,Local government in Nasarawa State,3,27,0,NULL,NULL,NULL,NULL,NULL
+571,Lafia,Local government in Nasarawa State,3,27,0,NULL,NULL,NULL,NULL,NULL
+572,Nasarawa,Local government in Nasarawa State,3,27,0,NULL,NULL,NULL,NULL,NULL
+573,Nasarawa Egon,Local government in Nasarawa State,3,27,0,NULL,NULL,NULL,NULL,NULL
+574,Obi,Local government in Nasarawa State,3,27,0,NULL,NULL,NULL,NULL,NULL
+575,Toto,Local government in Nasarawa State,3,27,0,NULL,NULL,NULL,NULL,NULL
+576,Wamba,Local government in Nasarawa State,3,27,0,NULL,NULL,NULL,NULL,NULL
+577,Agaie,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+578,Agwara,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+579,Bida,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+580,Borgu,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+581,Bosso,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+582,Chanchaga,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+583,Edati,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+584,Gbako,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+585,Gurara,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+586,Katcha,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+587,Kontagora,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+588,Lapai,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+589,Lavun,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+590,Magama,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+591,Mariga,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+592,Mashegu,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+593,Mokwa,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+594,Moya,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+595,Paikoro,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+596,Rafi,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+597,Rijau,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+598,Shiroro,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+599,Suleja,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+600,Tafa,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+601,Wushishi,Local government in Niger State,3,28,0,NULL,NULL,NULL,NULL,NULL
+602,Abeokuta North,Local government in Ogun State,3,29,0,NULL,NULL,NULL,NULL,NULL
+603,Abeokuta South,Local government in Ogun State,3,29,0,NULL,NULL,NULL,NULL,NULL
+604,Ado-Odo/Ota,Local government in Ogun State,3,29,0,NULL,NULL,NULL,NULL,NULL
+605,Egbado North,Local government in Ogun State,3,29,0,NULL,NULL,NULL,NULL,NULL
+606,Egbado South,Local government in Ogun State,3,29,0,NULL,NULL,NULL,NULL,NULL
+607,Ewekoro,Local government in Ogun State,3,29,0,NULL,NULL,NULL,NULL,NULL
+608,Ifo,Local government in Ogun State,3,29,0,NULL,NULL,NULL,NULL,NULL
+609,Ijebu East,Local government in Ogun State,3,29,0,NULL,NULL,NULL,NULL,NULL
+610,Ijebu North,Local government in Ogun State,3,29,0,NULL,NULL,NULL,NULL,NULL
+611,Ijebu North East,Local government in Ogun State,3,29,0,NULL,NULL,NULL,NULL,NULL
+612,Ijebu Ode,Local government in Ogun State,3,29,0,NULL,NULL,NULL,NULL,NULL
+613,Ikenne,Local government in Ogun State,3,29,0,NULL,NULL,NULL,NULL,NULL
+614,Imeko Afon,Local government in Ogun State,3,29,0,NULL,NULL,NULL,NULL,NULL
+615,Ipokia,Local government in Ogun State,3,29,0,NULL,NULL,NULL,NULL,NULL
+616,Obafemi Owode,Local government in Ogun State,3,29,0,NULL,NULL,NULL,NULL,NULL
+617,Odeda,Local government in Ogun State,3,29,0,NULL,NULL,NULL,NULL,NULL
+618,Odogbolu,Local government in Ogun State,3,29,0,NULL,NULL,NULL,NULL,NULL
+619,Ogun Waterside,Local government in Ogun State,3,29,0,NULL,NULL,NULL,NULL,NULL
+620,Remo North,Local government in Ogun State,3,29,0,NULL,NULL,NULL,NULL,NULL
+621,Shagamu,Local government in Ogun State,3,29,0,NULL,NULL,NULL,NULL,NULL
+622,Akoko North-East,Local government in Ondo State,3,30,0,NULL,NULL,NULL,NULL,NULL
+623,Akoko North-West,Local government in Ondo State,3,30,0,NULL,NULL,NULL,NULL,NULL
+624,Akoko South-West,Local government in Ondo State,3,30,0,NULL,NULL,NULL,NULL,NULL
+625,Akoko South-East,Local government in Ondo State,3,30,0,NULL,NULL,NULL,NULL,NULL
+626,Akure North,Local government in Ondo State,3,30,0,NULL,NULL,NULL,NULL,NULL
+627,Akure South,Local government in Ondo State,3,30,0,NULL,NULL,NULL,NULL,NULL
+628,Ese Odo,Local government in Ondo State,3,30,0,NULL,NULL,NULL,NULL,NULL
+629,Idanre,Local government in Ondo State,3,30,0,NULL,NULL,NULL,NULL,NULL
+630,Ifedore,Local government in Ondo State,3,30,0,NULL,NULL,NULL,NULL,NULL
+631,Ilaje,Local government in Ondo State,3,30,0,NULL,NULL,NULL,NULL,NULL
+632,Ile Oluji/Okeigbo,Local government in Ondo State,3,30,0,NULL,NULL,NULL,NULL,NULL
+633,Irele,Local government in Ondo State,3,30,0,NULL,NULL,NULL,NULL,NULL
+634,Odigbo,Local government in Ondo State,3,30,0,NULL,NULL,NULL,NULL,NULL
+635,Okitipupa,Local government in Ondo State,3,30,0,NULL,NULL,NULL,NULL,NULL
+636,Ondo East,Local government in Ondo State,3,30,0,NULL,NULL,NULL,NULL,NULL
+637,Ondo West,Local government in Ondo State,3,30,0,NULL,NULL,NULL,NULL,NULL
+638,Ose,Local government in Ondo State,3,30,0,NULL,NULL,NULL,NULL,NULL
+639,Owo,Local government in Ondo State,3,30,0,NULL,NULL,NULL,NULL,NULL
+640,Atakunmosa East,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+641,Atakunmosa West,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+642,Aiyedaade,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+643,Aiyedire,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+644,Boluwaduro,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+645,Boripe,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+646,Ede North,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+647,Ede South,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+648,Ife Central,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+649,Ife East,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+650,Ife North,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+651,Ife South,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+652,Egbedore,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+653,Ejigbo,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+654,Ifedayo,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+655,Ifelodun,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+656,Ila,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+657,Ilesa East,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+658,Ilesa West,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+659,Irepodun,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+660,Irewole,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+661,Isokan,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+662,Iwo,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+663,Obokun,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+664,Odo Otin,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+665,Ola Oluwa,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+666,Olorunda,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+667,Oriade,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+668,Orolu,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+669,Osogbo,Local government in Osun State,3,31,0,NULL,NULL,NULL,NULL,NULL
+670,Afijio,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+671,Akinyele,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+672,Atiba,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+673,Atisbo,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+674,Egbeda,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+675,Ibadan North,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+676,Ibadan North-East,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+677,Ibadan North-West,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+678,Ibadan South-East,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+679,Ibadan South-West,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+680,Ibarapa Central,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+681,Ibarapa East,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+682,Ibarapa North,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+683,Ido,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+684,Irepo,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+685,Iseyin,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+686,Itesiwaju,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+687,Iwajowa,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+688,Kajola,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+689,Lagelu,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+690,Ogbomosho North,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+691,Ogbomosho South,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+692,Ogo Oluwa,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+693,Olorunsogo,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+694,Oluyole,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+695,Ona Ara,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+696,Orelope,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+697,Ori Ire,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+698,Oyo West,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+699,Oyo East,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+700,Saki East,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+701,Saki West,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+702,Surulere,Local government in Oyo State,3,32,0,NULL,NULL,NULL,NULL,NULL
+703,Bokkos,Local government in Plateau State,3,33,0,NULL,NULL,NULL,NULL,NULL
+704,Barkin Ladi,Local government in Plateau State,3,33,0,NULL,NULL,NULL,NULL,NULL
+705,Bassa,Local government in Plateau State,3,33,0,NULL,NULL,NULL,NULL,NULL
+706,Jos East,Local government in Plateau State,3,33,0,NULL,NULL,NULL,NULL,NULL
+707,Jos North,Local government in Plateau State,3,33,0,NULL,NULL,NULL,NULL,NULL
+708,Jos South,Local government in Plateau State,3,33,0,NULL,NULL,NULL,NULL,NULL
+709,Kanam,Local government in Plateau State,3,33,0,NULL,NULL,NULL,NULL,NULL
+710,Kanke,Local government in Plateau State,3,33,0,NULL,NULL,NULL,NULL,NULL
+711,Langtang South,Local government in Plateau State,3,33,0,NULL,NULL,NULL,NULL,NULL
+712,Langtang North,Local government in Plateau State,3,33,0,NULL,NULL,NULL,NULL,NULL
+713,Mangu,Local government in Plateau State,3,33,0,NULL,NULL,NULL,NULL,NULL
+714,Mikang,Local government in Plateau State,3,33,0,NULL,NULL,NULL,NULL,NULL
+715,Pankshin,Local government in Plateau State,3,33,0,NULL,NULL,NULL,NULL,NULL
+716,Qua'an Pan,Local government in Plateau State,3,33,0,NULL,NULL,NULL,NULL,NULL
+717,Riyom,Local government in Plateau State,3,33,0,NULL,NULL,NULL,NULL,NULL
+718,Shendam,Local government in Plateau State,3,33,0,NULL,NULL,NULL,NULL,NULL
+719,Wase,Local government in Plateau State,3,33,0,NULL,NULL,NULL,NULL,NULL
+720,Abua/Odual,Local government in Plateau State,3,34,0,NULL,NULL,NULL,NULL,NULL
+721,Ahoada East,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+722,Ahoada West,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+723,Akuku-Toru,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+724,Andoni,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+725,Asari-Toru,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+726,Bonny,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+727,Degema,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+728,Eleme,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+729,Emuoha,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+730,Etche,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+731,Gokana,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+732,Ikwerre,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+733,Khana,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+734,Obio/Akpor,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+735,Ogba/Egbema/Ndoni,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+736,Ogu/Bolo,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+737,Okrika,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+738,Omuma,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+739,Opobo/Nkoro,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+740,Oyigbo,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+741,Port Harcourt,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+742,Tai,Local government in Rivers State,3,34,0,NULL,NULL,NULL,NULL,NULL
+743,Binji,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+744,Bodinga,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+745,Dange Shuni,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+746,Gada,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+747,Goronyo,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+748,Gudu,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+749,Gwadabawa,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+750,Illela,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+751,Isa,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+752,Kebbe,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+753,Kware,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+754,Rabah,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+755,Sabon Birni,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+756,Shagari,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+757,Silame,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+758,Sokoto North,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+759,Sokoto South,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+760,Tambuwal,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+761,Tangaza,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+762,Tureta,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+763,Wamako,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+764,Wurno,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+765,Yabo,Local government in Sokoto State,3,35,0,NULL,NULL,NULL,NULL,NULL
+766,Ardo Kola,Local government in Taraba State,3,36,0,NULL,NULL,NULL,NULL,NULL
+767,Bali,Local government in Taraba State,3,36,0,NULL,NULL,NULL,NULL,NULL
+768,Donga,Local government in Taraba State,3,36,0,NULL,NULL,NULL,NULL,NULL
+769,Gashaka,Local government in Taraba State,3,36,0,NULL,NULL,NULL,NULL,NULL
+770,Gassol,Local government in Taraba State,3,36,0,NULL,NULL,NULL,NULL,NULL
+771,Ibi,Local government in Taraba State,3,36,0,NULL,NULL,NULL,NULL,NULL
+772,Jalingo,Local government in Taraba State,3,36,0,NULL,NULL,NULL,NULL,NULL
+773,Karim Lamido,Local government in Taraba State,3,36,0,NULL,NULL,NULL,NULL,NULL
+774,Kumi,Local government in Taraba State,3,36,0,NULL,NULL,NULL,NULL,NULL
+775,Lau,Local government in Taraba State,3,36,0,NULL,NULL,NULL,NULL,NULL
+776,Sardauna,Local government in Taraba State,3,36,0,NULL,NULL,NULL,NULL,NULL
+777,Takum,Local government in Taraba State,3,36,0,NULL,NULL,NULL,NULL,NULL
+778,Ussa,Local government in Taraba State,3,36,0,NULL,NULL,NULL,NULL,NULL
+779,Wukari,Local government in Taraba State,3,36,0,NULL,NULL,NULL,NULL,NULL
+780,Yorro,Local government in Taraba State,3,36,0,NULL,NULL,NULL,NULL,NULL
+781,Zing,Local government in Taraba State,3,36,0,NULL,NULL,NULL,NULL,NULL
+782,Bade,Local government in Yobe State,3,37,0,NULL,NULL,NULL,NULL,NULL
+783,Bursari,Local government in Yobe State,3,37,0,NULL,NULL,NULL,NULL,NULL
+784,Damaturu,Local government in Yobe State,3,37,0,NULL,NULL,NULL,NULL,NULL
+785,Fika,Local government in Yobe State,3,37,0,NULL,NULL,NULL,NULL,NULL
+786,Fune,Local government in Yobe State,3,37,0,NULL,NULL,NULL,NULL,NULL
+787,Geidam,Local government in Yobe State,3,37,0,NULL,NULL,NULL,NULL,NULL
+788,Gujba,Local government in Yobe State,3,37,0,NULL,NULL,NULL,NULL,NULL
+789,Gulani,Local government in Yobe State,3,37,0,NULL,NULL,NULL,NULL,NULL
+790,Jakusko,Local government in Yobe State,3,37,0,NULL,NULL,NULL,NULL,NULL
+791,Karasuwa,Local government in Yobe State,3,37,0,NULL,NULL,NULL,NULL,NULL
+792,Machina,Local government in Yobe State,3,37,0,NULL,NULL,NULL,NULL,NULL
+793,Nangere,Local government in Yobe State,3,37,0,NULL,NULL,NULL,NULL,NULL
+794,Nguru,Local government in Yobe State,3,37,0,NULL,NULL,NULL,NULL,NULL
+795,Potiskum,Local government in Yobe State,3,37,0,NULL,NULL,NULL,NULL,NULL
+796,Tarmuwa,Local government in Yobe State,3,37,0,NULL,NULL,NULL,NULL,NULL
+797,Yunusari,Local government in Yobe State,3,37,0,NULL,NULL,NULL,NULL,NULL
+798,Yusufari,Local government in Yobe State,3,37,0,NULL,NULL,NULL,NULL,NULL
+799,Anka,Local government in Zamfara State,3,38,0,NULL,NULL,NULL,NULL,NULL
+800,Bakura,Local government in Zamfara State,3,38,0,NULL,NULL,NULL,NULL,NULL
+801,Birnin Magaji/Kiyaw,Local government in Zamfara State,3,38,0,NULL,NULL,NULL,NULL,NULL
+802,Bukkuyum,Local government in Zamfara State,3,38,0,NULL,NULL,NULL,NULL,NULL
+803,Bungudu,Local government in Zamfara State,3,38,0,NULL,NULL,NULL,NULL,NULL
+804,Gummi,Local government in Zamfara State,3,38,0,NULL,NULL,NULL,NULL,NULL
+805,Gusau,Local government in Zamfara State,3,38,0,NULL,NULL,NULL,NULL,NULL
+806,Kaura Namoda,Local government in Zamfara State,3,38,0,NULL,NULL,NULL,NULL,NULL
+807,Maradun,Local government in Zamfara State,3,38,0,NULL,NULL,NULL,NULL,NULL
+808,Maru,Local government in Zamfara State,3,38,0,NULL,NULL,NULL,NULL,NULL
+809,Shinkafi,Local government in Zamfara State,3,38,0,NULL,NULL,NULL,NULL,NULL
+810,Talata Mafara,Local government in Zamfara State,3,38,0,NULL,NULL,NULL,NULL,NULL
+811,Chafe,Local government in Zamfara State,3,38,0,NULL,NULL,NULL,NULL,NULL
+812,Zurmi,Local government in Zamfara State,3,38,0,NULL,NULL,NULL,NULL,NULL
+813,Ahmadu Bello University Teaching Hospital (ABUTH),Ahmadu Bello University Teaching Hospital (ABUTH),7,20,0,Ahmadu Bello University Teaching Hospital (ABUTH),null,null,NULL,NULL
+814,Chukwuemeka Odumegwu Ojukwu University Teaching Hospital (COOUTH).,Chukwuemeka Odumegwu Ojukwu University Teaching Hospital (COOUTH).,7,5,0,Chukwuemeka Odumegwu Ojukwu University Teaching Hospital (COOUTH).,null,null,NULL,NULL
+815,Rivers State University Hospital (RSUTH),Rivers State University Hospital (RSUTH),7,34,0,Rivers State University Hospital (RSUTH),null,null,NULL,NULL
+816,Defence Reference laboratory (DRL) Abuja,Defence Reference laboratory (DRL) Abuja,7,16,0,Defence Reference laboratory (DRL) Abuja,null,null,NULL,NULL
+817,Federal Medical Center Makurdi,Federal Medical Center Makurdi,7,8,0,Federal Medical Center Makurdi,null,null,NULL,NULL
+818,Federal Teaching Hospital (FTH) Gombe,Federal Teaching Hospital (FTH) Gombe,7,17,0,Federal Teaching Hospital (FTH) Gombe,null,null,NULL,NULL
+819,Jos University Teaching Hospital (JUTH) Jos,Jos University Teaching Hospital (JUTH) Jos,7,33,0,Jos University Teaching Hospital (JUTH) Jos,null,null,NULL,NULL
+820,Lagos State University Teaching Hospital (LASUTH) Lagos,Lagos State University Teaching Hospital (LASUTH) Lagos,7,26,0,Lagos State University Teaching Hospital (LASUTH) Lagos,null,null,NULL,NULL
+821,National Reference Laboratory Gaduwa (NRL) Abuja,National Reference Laboratory Gaduwa (NRL) Abuja,7,16,0,National Reference Laboratory Gaduwa (NRL) Abuja,null,null,NULL,NULL
+822,Nigerian Institute of Medical Research (NIMR) Lagos,Nigerian Institute of Medical Research (NIMR) Lagos,7,26,0,Nigerian Institute of Medical Research (NIMR) Lagos,null,null,NULL,NULL
+823,Nnamdi Azikiwe University Teaching Hospital (NAUTH),Nnamdi Azikiwe University Teaching Hospital (NAUTH),7,5,0,Nnamdi Azikiwe University Teaching Hospital (NAUTH),null,null,NULL,NULL
+824,Obafemi Awolowo University Teaching Hospital (OAUTH) Ile-Ife,Obafemi Awolowo University Teaching Hospital (OAUTH) Ile-Ife,7,32,0,Obafemi Awolowo University Teaching Hospital (OAUTH) Ile-Ife,null,null,NULL,NULL
+825,University of Maiduguri Teaching Hospital (UMTH) Maiduguri,University of Maiduguri Teaching Hospital (UMTH) Maiduguri,7,8,0,University of Maiduguri Teaching Hospital (UMTH) Maiduguri,null,null,NULL,NULL
+826,University of Uyo teaching Hospital (UUTH) Uyo,University of Uyo teaching Hospital (UUTH) Uyo,7,4,0,University of Uyo teaching Hospital (UUTH) Uyo,null,null,NULL,NULL
+827,Usman Danfodio University Teaching Hospital (UDUTH),Usman Danfodio University Teaching Hospital (UDUTH),7,35,0,Usman Danfodio University Teaching Hospital (UDUTH),null,null,NULL,NULL
+828,Federal Medical Center Jalingo,Federal Medical Center Jalingo,7,36,0,Federal Medical Center Jalingo,null,null,NULL,NULL
+829,68 NARH Yaba, Lagos,69 NARH Yaba, Lagos,7,26,0,69 NARH Yaba, Lagos,null,null,NULL,NULL
+830,Asokoro Laboratory and Training Center,Asokoro Laboratory and Training Center,7,16,0,Asokoro Laboratory and Training Center,null,null,NULL,NULL
+831,University Of Abuja Teaching Hospital PCR Lab,University Of Abuja Teaching Hospital PCR Lab,7,16,0,University Of Abuja Teaching Hospital PCR Lab,null,null,NULL,NULL
+832,Aminu Kano Teaching Hopital PCR Lab,Aminu Kano Teaching Hopital PCR Lab,7,21,0,Aminu Kano Teaching Hopital PCR Lab,null,null,NULL,NULL
+833,Plateau State Human Virology Research Center.,Plateau State Human Virology Research Center.,7,33,0,Plateau State Human Virology Research Center.,null,null,NULL,NULL
+834,University College Hospital Ibadan,University College Hospital Ibadan,7,32,0,University College Hospital Ibadan,null,null,NULL,NULL
+835,Vinzorb Pharmacy Uyo,Vinzorb Pharmacy Uyo,5,107,0,NULL,8037608526,NULL,NULL,NULL
+836,EFULECARE PHARMACY,EFULECARE PHARMACY,5,734,0,NULL,8037988609,ngoziaiaokoronkwo@gmail.com,NULL,NULL
+837,CAPINO PHARMACY,CAPINO PHARMACY,5,734,0,NULL,8037879766,bascopharm@yahoo.com,NULL,NULL
+838,Chilpharm,Chilpharm,5,546,0,NULL,8062100816,NULL,NULL,NULL
+839,BUGONS PHARMACY,BUGONS PHARMACY,5,734,0,NULL,8035988906,ugochben@yahoo.com,NULL,NULL
+840,COSMADU PHARMACY,COSMADU PHARMACY,5,734,0,NULL,8036760907,cosmasmaduneme@yahoo.com,NULL,NULL
+841,SOSO PHARMACY,SOSO PHARMACY,5,734,0,NULL,7030304228,sosopharmacy@gmail.com,NULL,NULL
+842,LLYODS PHARMACY,LLYODS PHARMACY,5,734,0,NULL,8033402534,lloydspharm@yahoo.com,NULL,NULL
+843,BARATA PHARMACY,BARATA PHARMACY,5,734,0,NULL,9095656624,oenwere@yahoo.com,NULL,NULL
+844,OMNES PHARMACY,OMNES PHARMACY,5,734,0,NULL,8036014806,og-mega@yahoo.co.uk,NULL,NULL
+845,PHLINT PHARMACY,PHLINT PHARMACY,5,734,0,NULL,7031253763,ify.anyanabor@gmail.com,NULL,NULL
+846,I & C PHARMACY,I & C PHARMACY,5,734,0,NULL,8066655168,nwokevictor72@yahoo.com,NULL,NULL
+847,MEKNEE PHARMACY,MEKNEE PHARMACY,5,734,0,NULL,8035645991,cnakpa@yahoo.com,NULL,NULL
+848,GAKORA PHARMACY,GAKORA PHARMACY,5,734,0,NULL,8037182065,kwalegbemisola@gmail.com,NULL,NULL
+849,TOP TEA PHARMACY,TOP TEA PHARMACY,5,734,0,NULL,8067145454,jonwujiariri@gmail.com,NULL,NULL
+850,EVERGREEN PHARMACY,EVERGREEN PHARMACY,5,734,0,NULL,9057574354,herbertdgreat@yahoo.com,NULL,NULL
+851,FIRST SEED PHARMACY,FIRST SEED PHARMACY,5,734,0,NULL,8182509802,aladishallom@gmail.com,NULL,NULL
+852,MEDICURE PHARMACY,MEDICURE PHARMACY,5,734,0,NULL,8066720308,bomsmails@yahoo.com,NULL,NULL
+853,AKOLTEM PHARMACY,AKOLTEM PHARMACY,5,734,0,NULL,7063583327,akoltem@yahoo.com,NULL,NULL
+854,WILLSON PHARMACY,WILLSON PHARMACY,5,734,0,NULL,8037075532,wilfredugwuanyi@gmail.com,NULL,NULL
+855,BENMATIS PHARMACY,BENMATIS PHARMACY,5,734,0,NULL,8148272002,benmatispharmacy@yahoo.com,NULL,NULL
+856,MENTOR PHARMACY,MENTOR PHARMACY,5,728,0,NULL,8059000345,mentormed@yahoo.com,NULL,NULL
+857,LUNECT PHARMACY,LUNECT PHARMACY,5,740,0,NULL,8035470121,ngozilukeegbogu@yahoo.com,NULL,NULL
+858,TREADSTONE PHARMACY,TREADSTONE PHARMACY,5,740,0,NULL,8033402592,oluwakemioladesemola@yahoo.com,NULL,NULL
+859,SODATON PHARMACY,SODATON PHARMACY,5,734,0,NULL,7030896961,pharmwale@gmail.com,NULL,NULL
+860,GRAVAS PHARMACY,GRAVAS PHARMACY,5,734,0,NULL,NULL,romayuku@yahoo.com,NULL,NULL
+861,CHINDUX PHARMACY,CHINDUX PHARMACY,5,734,0,NULL,8033390028,chinduxpharm@yahoo.com,NULL,NULL
+862,SILVA PHARMACY,SILVA PHARMACY,5,734,0,NULL,8038806128,silvasyncoinfo@yahoo.com,NULL,NULL
+863,CORDIS PHARMACY,CORDIS PHARMACY,5,734,0,NULL,9034490049,cordispharmacy@yahoo.com,NULL,NULL
+864,MEKVIC PHARMACY,MEKVIC PHARMACY,5,734,0,NULL,8035415785,vitameka@yahoo.com,NULL,NULL
+865,TOP LIFE PHARMACY,TOP LIFE PHARMACY,5,734,0,NULL,8035500834,charleseromosele001@gmail.com,NULL,NULL
+866,GRAYMED PHARMACY,GRAYMED PHARMACY,5,734,0,NULL,8063695960,NULL,NULL,NULL
+867,BETHSIDA PHARMACY,BETHSIDA PHARMACY,5,734,0,NULL,8034787033,panele@yahoo.com,NULL,NULL
+868,PRAYBEST PHARMACY,PRAYBEST PHARMACY,5,734,0,NULL,8033439619,onyekachi4real2008@yahoo.com,NULL,NULL
+869,EZDEE PHARMACY,EZDEE PHARMACY,5,734,0,NULL,8039382798,NULL,NULL,NULL
+870,MENTOR PHARMACY,MENTOR PHARMACY,5,728,0,NULL,8033421547,mentormed@yahoo.com,NULL,NULL
+871,CELIA BUCHI PHARMACY,CELIA BUCHI PHARMACY,5,734,0,NULL,8063397213,NULL,NULL,NULL
+872,Kaynaan Pharmacy,Kaynaan Pharmacy,5,214,0,NULL,8032326212,edukecharles@gmail.com,NULL,NULL
+873,Remcare Pharmacy,Remcare Pharmacy,5,214,0,NULL,8038685762,chidinmahelen@rocketmail.com,NULL,NULL
+874,Wessa Pharmacy,Wessa Pharmacy,5,214,0,NULL,8033367472,vitalisonline2@gmail.com,NULL,NULL
+875,Joe- Manuel Pharmacy,Joe- Manuel Pharmacy,5,215,0,NULL,8034518005,charlesuman@yahoo.com,NULL,NULL
+876,Genius Pharmacy,Genius Pharmacy,5,215,0,NULL,9096409191,isaackolawole99@gmail.com,NULL,NULL
+877,Vicon Pharmacy,Vicon Pharmacy,5,215,0,NULL,8125819232,mfonudofia24@gmail.com,NULL,NULL
+878,Andy Pharmacy,Andy Pharmacy,5,215,0,NULL,8037079644,ebengeandy@yahoo.com,NULL,NULL
+879,Anijah Pharmacy,Anijah Pharmacy,5,215,0,NULL,9039351759,ObetenCharles@yahoo.com,NULL,NULL
+880,Kamel Pharmacy,Kamel Pharmacy,5,215,0,NULL,8063530943,kamelpharmacy1@gmail.com,NULL,NULL
+881,Winposh Pharmacy,Winposh Pharmacy,5,215,0,NULL,8037519878,digwechibiuke@yahoo.com,NULL,NULL
+882,Bless & Mercy Pharmacy,Bless & Mercy Pharmacy,5,215,0,NULL,8034837194,aruaIfeanyichukwu@yahoo.com,NULL,NULL
+883,Andy Pharmacy,Andy Pharmacy,5,215,0,NULL,7038799089,awajinome@gmail.com,NULL,NULL
+884,Akaa Pharmacy,Akaa Pharmacy,5,214,0,NULL,8036806361,akaapharmacy@gmail.com,NULL,NULL
+885,Eagle Eye Pharmacy,Eagle Eye Pharmacy,5,214,0,NULL,8038723651,ositam.ogbu@gmail.com,NULL,NULL
+886,Enamate Pharmacy,Enamate Pharmacy,5,214,0,NULL,8063530943,umetitichinazo@gmail.com,NULL,NULL
+887,Kamel Pharmacy,Kamel Pharmacy,5,214,0,NULL,8037453926,kamelpharmacy1@gmail.com,NULL,NULL
+888,Canaan Life Pharmacy,Canaan Life Pharmacy,5,214,0,NULL,7039245269,ernestattoe@gmail.com,NULL,NULL
+889,Daphyl Pharmacy,Daphyl Pharmacy,5,214,0,NULL,8055026619,daphyl4U@yahoo.com,NULL,NULL
+890,Bez Pharmacy,Bez Pharmacy,5,214,0,NULL,8068579547,nsikakudoma@gmail.com,NULL,NULL
+891,Kal - G Pharmacy,Kal - G Pharmacy,5,214,0,NULL,8032446501,noblesirpee523@gmail.com,NULL,NULL
+892,Anijah Pharmacy,Anijah Pharmacy,5,214,0,NULL,8058500868,aianijah@yahoo.com,NULL,NULL
+893,Sedem Pharmacy,Sedem Pharmacy,5,214,0,NULL,7065273015,cyrilokochi@yahoo.com,NULL,NULL
+894,CMark Global Pharmacy,CMark Global Pharmacy,5,222,0,NULL,8068103301,udemezuenonso@gmail.com,NULL,NULL
+895,Calwell Pharmacy,Calwell Pharmacy,5,217,0,NULL,8037365812,calistusabonyi@yahoo.com,NULL,NULL
+896,Jembernice Pharmacy,Jembernice Pharmacy,5,101,0,NULL,8035067306,olorunsolaeo@yahoo.com,NULL,NULL
+897,JDJ Pharmacy,JDJ Pharmacy,5,90,0,NULL,8037947338,jdjide@yahoo.com,NULL,NULL
+898,Gift Alive Pharmacy,Gift Alive Pharmacy,5,90,0,NULL,8067080340,enodelord@yahoo.co.uk,NULL,NULL
+899,Serason Pharmacy,Serason Pharmacy,5,107,0,NULL,8063276478,tonyiykecares@yahoo.com,NULL,NULL
+900,De Druglord Pharmacy,De Druglord Pharmacy,5,107,0,NULL,8069299990,dedruglordpharmacy@gmail.com,NULL,NULL
+901,Prolimsa Pharmacy,Prolimsa Pharmacy,5,107,0,NULL,7061568850,udpharm@yahoo.com,NULL,NULL
+902,Siban Pharmacy,Siban Pharmacy,5,107,0,NULL,8028265806,sibanpharm@gmail.com,NULL,NULL
+903,Revive-Health Pharmacy,Revive-Health Pharmacy,5,107,0,NULL,8034261270,olembe_a@yahoo.com,NULL,NULL
+904,Tonay Pharmacy,Tonay Pharmacy,5,107,0,NULL,8036881871,tonaypharm@gmail.com,NULL,NULL
+905,One Stop Pharmacy,One Stop Pharmacy,5,107,0,NULL,8023337068,usenfelicia@gmail.com,NULL,NULL
+906,Golden Drugs Pharmacy,Golden Drugs Pharmacy,5,107,0,NULL,7068612972,goldendrugs52011@gmail.com,NULL,NULL
+907,Pharmablaze Pharmacy Ikot Ekpene,Pharmablaze Pharmacy Ikot Ekpene,5,90,0,NULL,7035751989,NULL,NULL,NULL
+908,Lily Pharmacy Eket,Lily Pharmacy Eket,5,79,0,NULL,7064557295,NULL,NULL,NULL
+909,Adorable Pharmacy Eket,Adorable Pharmacy Eket,5,79,0,NULL,8038615153,NULL,NULL,NULL
+910,Moferein Pharmacy Eket,Moferein Pharmacy Eket,5,79,0,NULL,7033226432,NULL,NULL,NULL
+911,Lily Pharmacy Oron,Lily Pharmacy Oron,5,101,0,NULL,8038700680,NULL,NULL,NULL
+912,Mkpouto Pharmacy Ikot Ekpene,Mkpouto Pharmacy Ikot Ekpene,5,90,0,NULL,8136583981,NULL,NULL,NULL
+913,Bonalive Pharmacy Ikot Ekpene,Bonalive Pharmacy Ikot Ekpene,5,90,0,NULL,8032577706,NULL,NULL,NULL
+914,Lily Pharmacy Ikot Ekpene,Lily Pharmacy Ikot Ekpene,5,90,0,NULL,8037699016,NULL,NULL,NULL
+915,Jomel Pharmacy Uyo,Jomel Pharmacy Uyo,5,107,0,NULL,8027387227,NULL,NULL,NULL
+916,Carepoint Pharmacy Ibiono,Carepoint Pharmacy Ibiono,5,88,0,NULL,8038695025,NULL,NULL,NULL
+917,U-Chris Pharmacy Uyo,U-Chris Pharmacy Uyo,5,107,0,NULL,7014872888,NULL,NULL,NULL
+918,Drugzone Pharmacy Uyo,Drugzone Pharmacy Uyo,5,107,0,NULL,8068775718,NULL,NULL,NULL
+919,Healthway Pharmacy Uyo,Healthway Pharmacy Uyo,5,107,0,NULL,8067726247,NULL,NULL,NULL
+920,Wellville Pharmacy,Wellville Pharmacy,5,545,0,NULL,7033506000,adedayo_adetiba@hotmail.com,NULL,NULL
+921,Jogen Pharmacy,Jogen Pharmacy,5,545,0,NULL,8158190375,jogenpharmacy@yahoo.com,NULL,NULL
+922,Primeah Pharmacy,Primeah Pharmacy,5,545,0,NULL,7031220392,pharmacy@primeah.com.ng,NULL,NULL
+923,Le Remede Pharmacy,Le Remede Pharmacy,5,545,0,NULL,9097871100,amemaben@gmail.com,NULL,NULL
+924,Zimak Pharmacy,Zimak Pharmacy,5,545,0,NULL,7036911954,cutiecindy@yahoo.com,NULL,NULL
+925,Rosemus Pharmacy (Ajeromi),Rosemus Pharmacy (Ajeromi),5,545,0,NULL,8037788345,rosemuspharm@yahoo.com,NULL,NULL
+926,Kaodaf Pharmacy,Kaodaf Pharmacy,5,545,0,NULL,8028762012,kaodafpharm@yahoo.com,NULL,NULL
+927,Bolatoks Pharmacy,Bolatoks Pharmacy,5,545,0,NULL,7032878238,bolatokspharmacy@gmail.com,NULL,NULL
+928,Standard Generics,Standard Generics,5,545,0,NULL,8033168492,stdgenerics@yahoo.com,NULL,NULL
+929,Remedia Pharmacy,Remedia Pharmacy,5,548,0,NULL,8088226324,remediapharmacy2010@gmail.com,NULL,NULL
+930,Cosmos Pharmacy,Cosmos Pharmacy,5,548,0,NULL,8033070943,cosmospharma@yahoo.co.uk,NULL,NULL
+931,Rosemus Pharmacy(Apapa),Rosemus Pharmacy(Apapa),5,548,0,NULL,7033648163,rosemuspharm@yahoo.com,NULL,NULL
+932,Healthplus Pharmacy Apapa,Healthplus Pharmacy Apapa,5,548,0,NULL,8082435763,Apapamall@healthplus.com.ng,NULL,NULL
+933,Jaykay Pharmacy,Jaykay Pharmacy,5,548,0,NULL,9097495491,jaykay.pharma@yahoo.com,NULL,NULL
+934,De Luxuriant Pharmacy,De Luxuriant Pharmacy,5,548,0,NULL,8033239580,onyidora2002@yahoo.com,NULL,NULL
+935,Careforte Pharmacy,Careforte Pharmacy,5,548,0,NULL,7086401956,petmogul12@gmail.com,NULL,NULL
+936,Light House Pharmacy,Light House Pharmacy,5,544,0,NULL,8037279350,owopaul@yahoo.com,NULL,NULL
+937,Teglo Pharmacy,Teglo Pharmacy,5,544,0,NULL,8034707691,teglopharmacy1@gmail.com,NULL,NULL
+938,Shekinah Pharmacy,Shekinah Pharmacy,5,544,0,NULL,7086005960,Shekinahspecialtiesltd@gmail.com,NULL,NULL
+939,Arebcyl Pharmacy,Arebcyl Pharmacy,5,544,0,NULL,8033082453,arebuncyril@yahoo.com,NULL,NULL
+940,ABSA Healthcare,ABSA Healthcare,5,544,0,NULL,8037178441,Abbas.sambo@gmail.com,NULL,NULL
+941,Damilola Pharmacy (1),Damilola Pharmacy (1),5,544,0,NULL,8032192838,ogunladeolaitan@yahoo.com,NULL,NULL
+942,Damilola pharmacy (2),Damilola pharmacy (2),5,544,0,NULL,7066557993,ogunladeolaitan@yahoo.com,NULL,NULL
+943,03 Pharmacy,4 Pharmacy,5,544,0,NULL,8023209181,Jumoke.baker@gmail.com,NULL,NULL
+944,Danour Pharmacy,Danour Pharmacy,5,544,0,NULL,8032724284,ahmedilinie@gmail.com,NULL,NULL
+945,Mooveon pharmacy,Mooveon pharmacy,5,544,0,NULL,9097612523,mooveon44@gmail .com,NULL,NULL
+946,Agenda pharmacy,Agenda pharmacy,5,544,0,NULL,8037233498,ayospecie@gmail.com,NULL,NULL
+947,Caratiyah Pharmacy,Caratiyah Pharmacy,5,544,0,NULL,8027288555,pharmarkola@yahoo.com,NULL,NULL
+948,Salvich Pharmacy,Salvich Pharmacy,5,544,0,NULL,8023075729,judeonwordi@yahoo.com,NULL,NULL
+949,Mascot Pharmacy,Mascot Pharmacy,5,544,0,NULL,8026108324,mascotpharmacy@gmail.com,NULL,NULL
+950,Epsilon Pharmacy,Epsilon Pharmacy,5,544,0,NULL,8028485054,epsilonpharma@yahoo.com,NULL,NULL
+951,Olivecare Pharmacy,Olivecare Pharmacy,5,544,0,NULL,8039097017,olivecarepharmacy@gmail.com,NULL,NULL
+952,Ufot-Mfonse Pharmacy,Ufot-Mfonse Pharmacy,5,544,0,NULL,8029494539,Mfonnsese@yahoo.com,NULL,NULL
+953,Letonia Pharmacy,Letonia Pharmacy,5,544,0,NULL,8033922445,letoniagroup@gmail.com,NULL,NULL
+954,Golby Pharmacy,Golby Pharmacy,5,544,0,NULL,8033066362,golby123@yahoo.com,NULL,NULL
+955,Moray Pharmacy,Moray Pharmacy,5,554,0,NULL,8033060699,yetmoray@gmail.com,NULL,NULL
+956,Abek Pharmacy,Abek Pharmacy,5,544,0,NULL,8037863511,elizabetholu4@gmail.com,NULL,NULL
+957,Mebik Pharmacy,Mebik Pharmacy,5,702,0,NULL,8034027579,mebikpharm@gmail.com,NULL,NULL
+958,Mebik Pharmacy,Mebik Pharmacy,5,563,0,NULL,8034027579,mebikpharm@gmail.com,NULL,NULL
+959,Silverline Pharmacy,Silverline Pharmacy,5,702,0,NULL,8034079222,ragbim@yahoo.com,NULL,NULL
+960,Silverline Pharmacy,Silverline Pharmacy,5,563,0,NULL,8034079222,ragbim@yahoo.com,NULL,NULL
+961,Drugserve harmacy,Drugserve harmacy,5,702,0,NULL,8023051683,drugservepharmacyltd@yahoo.com,NULL,NULL
+962,Drugserve harmacy,Drugserve harmacy,5,563,0,NULL,8023051683,drugservepharmacyltd@yahoo.com,NULL,NULL
+963,Invivo Pharmacy,Invivo Pharmacy,5,702,0,NULL,8028749959,aojo@smartmarkltd.com,NULL,NULL
+964,Invivo Pharmacy,Invivo Pharmacy,5,563,0,NULL,8028749959,aojo@smartmarkltd.com,NULL,NULL
+965,Veragate Pharmacy,Veragate Pharmacy,5,702,0,NULL,7083240700,omololalawanson@gmail.com,NULL,NULL
+966,Veragate Pharmacy,Veragate Pharmacy,5,563,0,NULL,7083240700,omololalawanson@gmail.com,NULL,NULL
+967,Dummerics Pharmacy,Dummerics Pharmacy,5,702,0,NULL,8037152686,dummericspharma@yahoo.com,NULL,NULL
+968,Dummerics Pharmacy,Dummerics Pharmacy,5,563,0,NULL,8037152686,dummericspharma@yahoo.com,NULL,NULL
+969,Bernados Pharmacy,Bernados Pharmacy,5,702,0,NULL,8170307773,nictors2@yahoo.com,NULL,NULL
+970,Bernados Pharmacy,Bernados Pharmacy,5,563,0,NULL,8170307773,nictors2@yahoo.com,NULL,NULL
+971,Healthplus Pharmacy (Surulere),Healthplus Pharmacy (Surulere),5,702,0,NULL,8025570269,patrick.ugwumba@gmail.com,NULL,NULL
+972,Healthplus Pharmacy (Surulere),Healthplus Pharmacy (Surulere),5,563,0,NULL,8025570269,patrick.ugwumba@gmail.com,NULL,NULL
+973,Highrise Pharmacy,Highrise Pharmacy,5,702,0,NULL,8036375145,phighrise@yahoo.com,NULL,NULL
+974,Highrise Pharmacy,Highrise Pharmacy,5,563,0,NULL,8036375145,phighrise@yahoo.com,NULL,NULL
+975,Devan Pharmacy,Devan Pharmacy,5,702,0,NULL,8023022829,eddanene@yahoo.com,NULL,NULL
+976,Devan Pharmacy,Devan Pharmacy,5,563,0,NULL,8023022829,eddanene@yahoo.com,NULL,NULL
+977,Divinecare Pharmacy,Divinecare Pharmacy,5,702,0,NULL,8034192390,memechrisj@yahoo.co.uk,NULL,NULL
+978,Divinecare Pharmacy,Divinecare Pharmacy,5,563,0,NULL,8034192390,memechrisj@yahoo.co.uk,NULL,NULL
+979,Winoc Pharmacy,Winoc Pharmacy,5,702,0,NULL,8099450000,Winocpharm@yahoo.co.uk,NULL,NULL
+980,Winoc Pharmacy,Winoc Pharmacy,5,563,0,NULL,8099450000,Winocpharm@yahoo.co.uk,NULL,NULL
+981,Demsol Pharmacy,Demsol Pharmacy,5,556,0,NULL,8133376077,mologunagba@yahoo.com,NULL,NULL
+982,Kerson Pharmacy,Kerson Pharmacy,5,556,0,NULL,8034563901,kersonpharma@gmail.com,NULL,NULL
+983,Newton Pharmacy,Newton Pharmacy,5,560,0,NULL,NULL,obideyi_ob@yahoo.com,NULL,NULL
+984,Glopharm Healthcare,Glopharm Healthcare,5,560,0,NULL,7031849917,glopharmhc@yahoo.com,NULL,NULL
+985,Sinews and Muscles,Sinews and Muscles,5,560,0,NULL,8034859995,cyrilajing@gmail.com,NULL,NULL
+986,Lopez Pharmacy,Lopez Pharmacy,5,560,0,NULL,8135459018,Lopezpharm@gmail.com,NULL,NULL
+987,Soulhealth Pharmacy,Soulhealth Pharmacy,5,547,0,NULL,8023054142,emekaugbala@yahoo.com,NULL,NULL
+988,Elbeth Pharmacy,Elbeth Pharmacy,5,547,0,NULL,8062450621,elbethpharmacy@gmail.com,NULL,NULL
+989,Victory Drugs,Victory Drugs,5,547,0,NULL,8023424425,victorydrugs@yahoo.com,NULL,NULL
+990,Medlounge Pharmacy,Medlounge Pharmacy,5,558,0,NULL,8066396587,komeikpro@yahoo.com,NULL,NULL
+991,Rotlays Pharmacy,Rotlays Pharmacy,5,557,0,NULL,8034027579,biolaanibabaa@gmail.com,NULL,NULL
+992,Massey Vickers Pharmacy Ojo),Massey Vickers Pharmacy Ojo),5,560,0,NULL,8030495174,omojusticegcfr@yahoo.com,NULL,NULL
+993,Jeemay Pharmacy,Jeemay Pharmacy,5,560,0,NULL,8029859391,jeemaypharmacy@gmail.com,NULL,NULL
+994,Jedidiah Pharmacy,Jedidiah Pharmacy,5,560,0,NULL,8039648778,doziesmail@yahoo.com,NULL,NULL
+995,Biotech Systems and Pharmaceuticals,Biotech Systems and Pharmaceuticals,5,560,0,NULL,8035005950,lcokoro@yahoo.com,NULL,NULL
+996,Flinty Rock Pharmacy,Flinty Rock Pharmacy,5,560,0,NULL,8029990318,oakumulo@yahoo.com,NULL,NULL
+997,New Concept Pharmacy,New Concept Pharmacy,5,560,0,NULL,8033276448,anisiobinnekalisa@gmail.com,NULL,NULL
+998,Verjoe Pharmacy,Verjoe Pharmacy,5,560,0,NULL,8062827559,aadaobiemeziem@gmail.com,NULL,NULL
+999,Emmacity Pharmacy,Emmacity Pharmacy,5,545,0,NULL,8034192644,ubahenry@yahoo.com,NULL,NULL
+1000,Temidara Pharmacy,Temidara Pharmacy,5,555,0,NULL,8035725969,spiritbeing4u@yahoo.com,NULL,NULL
+1001,Family Care Pharmacy,Family Care Pharmacy,5,556,0,NULL,8094308361,familycarenigeria@gmail.com,NULL,NULL
+1002,Mebik Pharmacy,Mebik Pharmacy,5,557,0,NULL,8186675212,mebikpharm@gmail.com,NULL,NULL
+1003,Drug Consult Pharmacy,Drug Consult Pharmacy,5,562,0,NULL,8023162832,charlesoyeniyi@yahoo.com,NULL,NULL
+1004,Chrislad Pharmacy,Chrislad Pharmacy,5,556,0,NULL,8035376880,chrisladhealthcareltd@gmail.com,NULL,NULL
+1005,Rozec Pharmacy,Rozec Pharmacy,5,702,0,NULL,8033257929,Rozecpharm@yahoo.com,NULL,NULL
+1006,Rozec Pharmacy,Rozec Pharmacy,5,563,0,NULL,8033257929,Rozecpharm@yahoo.com,NULL,NULL
+1007,Caremart Pharmacy,Caremart Pharmacy,5,562,0,NULL,8034737480,nkechiogunjiofor@gmail. com,NULL,NULL
+1008,Tonag Pharmacy,Tonag Pharmacy,5,549,0,NULL,8023673328,pharmijeoma@yahoo.com,NULL,NULL
+1009,Avantgrobel Pharmacy,Avantgrobel Pharmacy,5,560,0,NULL,8033217090,andydukor@gmail.com,NULL,NULL
+1010,Taigab Pharmacy,Taigab Pharmacy,5,560,0,NULL,8033040031,oyedemigabriel@yahoo.com,NULL,NULL
+1011,Krismek Pharmacy,Krismek Pharmacy,5,560,0,NULL,8064855435,krismekpharmacy@yahoo.com,NULL,NULL
+1012,Aanod Pharmacy,Aanod Pharmacy,5,560,0,NULL,8033188868,aacmedes@yahoo.com,NULL,NULL
+1013,Ariox Pharmacy,Ariox Pharmacy,5,558,0,NULL,8033827512,yemiarimoro2000@gmail.com,NULL,NULL
+1014,Ibro Pharmacy,Ibro Pharmacy,5,555,0,NULL,8029865279,rasdon88@gmail.com,NULL,NULL
+1015,Alpha Pharmacy,Alpha Pharmacy,5,554,0,NULL,8184646386,okaforhetty@gmail.com,NULL,NULL
+1016,Massey Vickers Pharmacy Agege,Massey Vickers Pharmacy Agege,5,544,0,NULL,8038182426,masseyvickerspharmacy@gmail.com,NULL,NULL
+1017,Link Healthcare,Link Healthcare,5,702,0,NULL,8033231861,uchelam@yahoo.com,NULL,NULL
+1018,Link Healthcare,Link Healthcare,5,563,0,NULL,8033231861,uchelam@yahoo.com,NULL,NULL
+1019,Olive Height Pharm. Ltd,Olive Height Pharm. Ltd,5,558,0,NULL,7036616909,oliveheight2013@gmail.com,NULL,NULL
+1020,Robson Pharmacy,Robson Pharmacy,5,562,0,NULL,8033432538,coeneil@yahoo.co.uk,NULL,NULL
+1021,Santeforte Pharmacy,Santeforte Pharmacy,5,556,0,NULL,8033302312,kafayatalao@yahoo.com,NULL,NULL
+1022,Nedol Pharmacy,Nedol Pharmacy,5,546,0,NULL,8037256283,anene_happy@yahoo.?om,NULL,NULL
+1023,Medspring Pharmacy,Medspring Pharmacy,5,546,0,NULL,8030705510,medspringpharmacy@gmail.com,NULL,NULL
+1024,Turmeric Pharmacy,Turmeric Pharmacy,5,561,0,NULL,8182989540,info@turmericpharma.com,NULL,NULL
+1025,Marvelous pharmacy,Marvelous pharmacy,5,560,0,NULL,8023962036,ugwus@yahoo.com,NULL,NULL
+1026,Cynstan Pharmacy,Cynstan Pharmacy,5,560,0,NULL,8182926148,cynstanpharma@yahoo.com,NULL,NULL
+1027,Comely Anchor 2,Comely Anchor 3,5,560,0,NULL,8128199744,pesosuota@gmail.com,NULL,NULL
+1028,Engraced Phharmacy,Engraced Phharmacy,5,546,0,NULL,8038221372,omonajoona@yahoo.co.uk,NULL,NULL
+1029,Healthplus (Allen),Healthplus (Allen),5,554,0,NULL,8056359283,emondays@yahoo.com,NULL,NULL
+1030,Drugs Plux Pharmacy,Drugs Plux Pharmacy,5,560,0,NULL,8036877870,olisaagbalugo@yahoo.com,NULL,NULL
+1031,Rite care Pharmacy,Rite care Pharmacy,5,562,0,NULL,8035714840,flakybaluba@yahoo.com,NULL,NULL
+1032,Pill Box Pharmacy,Pill Box Pharmacy,5,558,0,NULL,8182275483,jalolayi@gmail.com,NULL,NULL
+1033,Springcare Pharmacy,Springcare Pharmacy,5,556,0,NULL,8033928830,springcarepharma@gmail.com,NULL,NULL
+1034,Mebik Pharmacy, Gbagada,Mebik Pharmacy, Gbagada,5,556,0,NULL,7069359784,mebikpharm@gmail.com,NULL,NULL
+1035,Somed Pharmacy,Somed Pharmacy,5,560,0,NULL,8027171245,ayoolamail@yahoo.com,NULL,NULL
+1036,Habibi Pharmacy,Habibi Pharmacy,5,558,0,NULL,8034526600,habibijum@gmail.com,NULL,NULL
+1037,Bola Chemist,Bola Chemist,5,557,0,NULL,8090956077,sarah.akowa2016@gmail.com,NULL,NULL
+1038,Haven Pharmacy,Haven Pharmacy,5,554,0,NULL,7030980082,chizon3@yahoo.com,NULL,NULL
+1039,Raforn Pharmacy,Raforn Pharmacy,5,547,0,NULL,8034376352,rafronnaira@gmail.com,NULL,NULL
+1040,Deyo Pharmacy,Deyo Pharmacy,5,544,0,NULL,8023115261,dejiosinoiki@yahoo.com,NULL,NULL
+1041,Healthserveplus pharmacy,Healthserveplus pharmacy,5,556,0,NULL,8023226539,Healthserve01@gmail.com,NULL,NULL
+1042,Cifax Pharmacy,Cifax Pharmacy,5,545,0,NULL,8023087506,zestcare01@gmail.com,NULL,NULL
+1043,Julie Harrison,Julie Harrison,5,556,0,NULL,8038277879,ada.okorie@gmail.com,NULL,NULL
+1044,Overtcare ltd,Overtcare ltd,5,556,0,NULL,8099456091,wealthmix@ yahoo.com,NULL,NULL
+1045,Ajekins Pharmacy,Ajekins Pharmacy,5,562,0,NULL,8035018100,ajekins13@gmail.com,NULL,NULL
+1046,Matan Pharmacy,Matan Pharmacy,5,558,0,NULL,7033752689,matanpharmacy@yahoo.com,NULL,NULL
+1047,Healthspring Pharmacy,Healthspring Pharmacy,5,556,0,NULL,8033223654,healthspringsltd@yahoo.com,NULL,NULL
+1048,Karadin Pharmacy,Karadin Pharmacy,5,702,0,NULL,8036513106,zoba226@yahoo.com,NULL,NULL
+1049,Karadin Pharmacy,Karadin Pharmacy,5,563,0,NULL,8036513106,zoba226@yahoo.com,NULL,NULL
+1050,Briston Pharmacy,Briston Pharmacy,5,554,0,NULL,8125847360,bikkyademiluwa@yahoo.com,NULL,NULL
+1051,HealthPlus (Festac),HealthPlus (Festac),5,547,0,NULL,7036339401,festivalmall@healthplus.com.ng,NULL,NULL
+1052,Ari Plus Pharamcy,Ari Plus Pharamcy,5,90,0,NULL,7032269221,NULL,NULL,NULL
+1053,Comid,Comid,5,107,0,NULL,8028729429,NULL,NULL,NULL
+1054,Contour,Contour,5,77,0,NULL,8060697454,NULL,NULL,NULL
+1055,Desha Pharmacy,Desha Pharmacy,5,77,0,NULL,8064447793,NULL,NULL,NULL
+1056,DE-Tomieph,DE-Tomieph,5,107,0,NULL,8027347719,NULL,NULL,NULL
+1057,Gidab Pharmacy,Gidab Pharmacy,5,107,0,NULL,8038978054,NULL,NULL,NULL
+1058,Higress,Higress,5,107,0,NULL,8064615777,NULL,NULL,NULL
+1059,Joshann,Joshann,5,90,0,NULL,9063275732,NULL,NULL,NULL
+1060,Lily Eket-Oron Road,Lily Eket-Oron Road,5,79,0,NULL,7068557400,NULL,NULL,NULL
+1061,Mi Amani,Mi Amani,5,85,0,NULL,8035839855,NULL,NULL,NULL
+1062,Palmscare Pharmacy,Palmscare Pharmacy,5,107,0,NULL,8065967547,NULL,NULL,NULL
+1063,Seamed Pharmacy,Seamed Pharmacy,5,77,0,NULL,8064845490,NULL,NULL,NULL
+1064,UB Pharmacy,UB Pharmacy,5,90,0,NULL,8033826800,NULL,NULL,NULL
+1065,Uzand,Uzand,5,90,0,NULL,8068667908,NULL,NULL,NULL
+1066,Bounty Pharmacy,Bounty Pharmacy,5,214,0,NULL,0810 739 8325,NULL,NULL,NULL
+1067,Chicare Pharmacy,Chicare Pharmacy,5,214,0,NULL,0703 2138 352,NULL,NULL,NULL
+1068,De-Alven Pharmacy,De-Alven Pharmacy,5,214,0,NULL,8036714998,NULL,NULL,NULL
+1069,Family-Plus Pharmacy,Family-Plus Pharmacy,5,214,0,NULL,0703 445 7843,NULL,NULL,NULL
+1070,G & I Pharmacy, Big Qua,G & I Pharmacy, Big Qua,5,214,0,NULL,0803 425 7055,NULL,NULL,NULL
+1071,G & I Pharmacy, IBB Way,G & I Pharmacy, IBB Way,5,214,0,NULL,0803 425 7055,NULL,NULL,NULL
+1072,Hugomel Pharmacy,Hugomel Pharmacy,5,214,0,NULL,0813 750 5474,NULL,NULL,NULL
+1073,Jencare Pharmacy,Jencare Pharmacy,5,214,0,NULL,0806 536 0443,NULL,NULL,NULL
+1074,Jochimu Pharmacy, Ikot Ishie,Jochimu Pharmacy, Ikot Ishie,5,214,0,NULL,0803 949 1516,NULL,NULL,NULL
+1075,Jochimu Pharmacy, Old Ikang,Jochimu Pharmacy, Old Ikang,5,214,0,NULL,0806 338 7750,NULL,NULL,NULL
+1076,Ke-Mon Pharmacy,Ke-Mon Pharmacy,5,214,0,NULL,0803 781 5057,NULL,NULL,NULL
+1077,Kesuch Pharmacy,Kesuch Pharmacy,5,215,0,NULL,0806 855 1211,NULL,NULL,NULL
+1078,Maxicare Pharmacy,Maxicare Pharmacy,5,214,0,NULL,8063157915,NULL,NULL,NULL
+1079,Mekason Pharmacy,Mekason Pharmacy,5,217,0,NULL,0803 951 4298,NULL,NULL,NULL
+1080,Mesodan Pharmacy,Mesodan Pharmacy,5,214,0,NULL,0703 977 7901,NULL,NULL,NULL
+1081,Rabana Pharmacy,Rabana Pharmacy,5,214,0,NULL,0706 8166 336,NULL,NULL,NULL
+1082,Royal blue Pharmacy,Royal blue Pharmacy,5,214,0,NULL,0706 854 8696,NULL,NULL,NULL
+1083,Symeed Pharmacy,Symeed Pharmacy,5,214,0,NULL,0806 9843 007,NULL,NULL,NULL
+1084,Turtlebay Pharmacy,Turtlebay Pharmacy,5,214,0,NULL,0703 473 7239,NULL,NULL,NULL
+1085,Wellontop Pharmacy,Wellontop Pharmacy,5,214,0,NULL,0806 058 0455,NULL,NULL,NULL
+1086,Wessa Pharmacy, 24 Hours,Wessa Pharmacy, 24 Hours,5,214,0,NULL,0803 876 2609,NULL,NULL,NULL
+1087,Zodiac Pharmacy,Zodiac Pharmacy,5,217,0,NULL,0905 003 1704,NULL,NULL,NULL
+1088,Andy Pharmacy, Mbukpa,Andy Pharmacy, Mbukpa,5,215,0,NULL,0806 738 7382,NULL,NULL,NULL
+1089,Adiel Pharmacy,Adiel Pharmacy,5,560,0,NULL,8023009303,NULL,NULL,NULL
+1090,Beneze Pharmacy,Beneze Pharmacy,5,556,0,NULL,8033704373,NULL,NULL,NULL
+1091,Bliss Pharmacy,Bliss Pharmacy,5,547,0,NULL,7035368458,NULL,NULL,NULL
+1092,Boliz Pharmacy,Boliz Pharmacy,5,546,0,NULL,8033327317,NULL,NULL,NULL
+1093,Comely Anchor Pharmacy 1, Ojo,Comely Anchor Pharmacy 1, Ojo,5,549,0,NULL,8128199744,NULL,NULL,NULL
+1094,Daily Life Pharmacy,Daily Life Pharmacy,5,545,0,NULL,8039472376,NULL,NULL,NULL
+1095,Denrobe Pharmacy,Denrobe Pharmacy,5,545,0,NULL,8033420140,NULL,NULL,NULL
+1096,Hilkani Pharmacy,Hilkani Pharmacy,5,556,0,NULL,8034037221,NULL,NULL,NULL
+1097,Lifemed Pharmacy,Lifemed Pharmacy,5,558,0,NULL,8097370970,NULL,NULL,NULL
+1098,Massey Vickers Pharmacy IBA,Massey Vickers Pharmacy IBA,5,560,0,NULL,8030495174,NULL,NULL,NULL
+1099,Mebik Pharmacy VICTORIA ISLAND,Mebik Pharmacy VICTORIA ISLAND,5,557,0,NULL,8186675212,NULL,NULL,NULL
+1100,Miab Pharmacy,Miab Pharmacy,5,556,0,NULL,8023163550,NULL,NULL,NULL
+1101,Qubas Pharmacy,Qubas Pharmacy,5,549,0,NULL,8039108022,NULL,NULL,NULL
+1102,Remedy Plus Pharmacy,Remedy Plus Pharmacy,5,555,0,NULL,8023320671,NULL,NULL,NULL
+1103,Rodjenk Pharmacy,Rodjenk Pharmacy,5,545,0,NULL,7038226594,NULL,NULL,NULL
+1104,Simstel Pharmacy,Simstel Pharmacy,5,562,0,NULL,7036149688,NULL,NULL,NULL
+1105,Alpha Pharmacy Ozuoba,Alpha Pharmacy Ozuoba,5,734,0,NULL,7060746371,NULL,NULL,NULL
+1106,Bencol Pharmacy,Bencol Pharmacy,5,740,0,NULL,7060789009,NULL,NULL,NULL
+1107,Carlvon Pharmacy,Carlvon Pharmacy,5,734,0,NULL,8034826221,NULL,NULL,NULL
+1108,Chrisben Pharmacy,Chrisben Pharmacy,5,734,0,NULL,8034889683,NULL,NULL,NULL
+1109,Drug Avenue Pharmacy,Drug Avenue Pharmacy,5,728,0,NULL,8037403482,NULL,NULL,NULL
+1110,GOCAP PHARMACY,GOCAP PHARMACY,5,728,0,NULL,7033059939,NULL,NULL,NULL
+1111,Gottgabe Pharmacy,Gottgabe Pharmacy,5,734,0,NULL,8033133583,NULL,NULL,NULL
+1112,Joanex Pharmacy,Joanex Pharmacy,5,732,0,NULL,8037323162,NULL,NULL,NULL
+1113,Medhills Pharmacy,Medhills Pharmacy,5,734,0,NULL,8036875377,NULL,NULL,NULL
+1114,Midline Pharmacy,Midline Pharmacy,5,734,0,NULL,8033384930,NULL,NULL,NULL
+1115,Orientz Pharmacy,Orientz Pharmacy,5,734,0,NULL,8033221261,NULL,NULL,NULL
+1116,Pharmasurf Pharmacy,Pharmasurf Pharmacy,5,734,0,NULL,8033340575,NULL,NULL,NULL
+1117,Phemax Pharmacy,Phemax Pharmacy,5,735,0,NULL,9066772207,NULL,NULL,NULL
+1118,Royk Pharmacy,Royk Pharmacy,5,732,0,NULL,8133868914,NULL,NULL,NULL
+1119,SILVA PHARMACY,SILVA PHARMACY,5,734,0,NULL,8038806128,NULL,NULL,NULL
+1120,Stagen Pharmacy,Stagen Pharmacy,5,734,0,NULL,8065106621,NULL,NULL,NULL
+1121,Superliving Pharmacy,Superliving Pharmacy,5,734,0,NULL,9085300746,NULL,NULL,NULL
+1122,Ubanefort Pharmacy,Ubanefort Pharmacy,5,734,0,NULL,8079739339,NULL,NULL,NULL
+1124,General hospital Kutigi Kutigi,Facility in Niger Lavun,4,589,0,abc,abc,abc,1,1
+1125,Rural hospital- Auna,Facility in Magama LGA,4,590,0,NULL,NULL,NULL,NULL,NULL
+1126,Shehu Shagari General Hospital Nasko,Facility in Magama LGA,4,590,0,NULL,NULL,NULL,NULL,NULL
+1127,Aminu Isah Kontagora General Hospital Bangi,Facility in Mariga LGA,4,591,0,NULL,NULL,NULL,NULL,NULL
+1128,General Hospital Mokwa,Facility in Mokwa LGA,4,593,0,NULL,NULL,NULL,NULL,NULL
+1129,Rural Hospital S Pawa,Facility in Moya LGA,4,594,0,NULL,NULL,NULL,NULL,NULL
+1130,General Hospital Kagara,Facility in Rafi LGA,4,596,0,NULL,NULL,NULL,NULL,NULL
+1131,General Hospital T Magajiya,Facility in Rijau LGA,4,597,0,NULL,NULL,NULL,NULL,NULL
+1132,Rural Hospital,Facility in Shiroro LGA,4,598,0,NULL,NULL,NULL,NULL,NULL
+1133,Chc Zungeru,Facility in Wushishi LGA,4,601,0,NULL,NULL,NULL,NULL,NULL
+1134,Rural Hospital Wushishi,Facility in Wushishi LGA,4,601,0,NULL,NULL,NULL,NULL,NULL
+1135,Agudama Ekpetima General Hospital,Facility in Yenagoa LGA,4,156,0,NULL,NULL,NULL,NULL,NULL
+1136,Agudama Tobis Clinic and Consultants,Facility in Yenagoa LGA,4,156,0,NULL,NULL,NULL,NULL,NULL
+1137,Aleibiri Cottage Hospital,Facility in Ekeremor LGA,4,150,0,NULL,NULL,NULL,NULL,NULL
+1138,Amassoma General Hospital,Facility in Southern Ijaw LGA,4,155,0,NULL,NULL,NULL,NULL,NULL
+1139,Okpoama Cottage Hospital,Facility in Brass LGA,4,149,0,NULL,NULL,NULL,NULL,NULL
+1140,Twon-Brass General Hospital,Facility in Brass LGA,4,149,0,NULL,NULL,NULL,NULL,NULL
+1141,Nembe General Hospital,Facility in Brass LGA,4,152,0,NULL,NULL,NULL,NULL,NULL
+1142,Kolo General Hospital,Facility in Ogbia LGA,4,153,0,NULL,NULL,NULL,NULL,NULL
+1143,Landmark Medical Centre,Facility in Ogbia LGA,4,153,0,NULL,NULL,NULL,NULL,NULL
+1144,Otuasega Cottage Hospital,Facility in Ogbia LGA,4,153,0,NULL,NULL,NULL,NULL,NULL
+1145,Ebederi Cottage Hospital,Facility in Sagbama LGA,4,154,0,NULL,NULL,NULL,NULL,NULL
+1146,Sagbama General Hospital,Facility in Sagbama LGA,4,154,0,NULL,NULL,NULL,NULL,NULL
+1147,Olugbobiri CHC,Facility in Southern Ijaw LGA,4,155,0,NULL,NULL,NULL,NULL,NULL
+1148,Peremabiri Cottage Hospital,Facility in Southern Ijaw LGA,4,155,0,NULL,NULL,NULL,NULL,NULL
+1149,Diete-Koki Memorial Specialist Hospital Yenegoa,Facility in Yenagoa LGA,4,156,0,NULL,NULL,NULL,NULL,NULL
+1150,Family Support Program Clinic,Facility in Yenagoa LGA,4,156,0,NULL,NULL,NULL,NULL,NULL
+1151,Igbogene Tuberculosis and Leprosy Referral Centre,Facility in Yenagoa LGA,4,156,0,NULL,NULL,NULL,NULL,NULL
+1152,Inri Etekwe Glory Land,Facility in Yenagoa LGA,4,156,0,NULL,NULL,NULL,NULL,NULL
+1153,Kpansia Asueife New Life Hospital,Facility in Yenagoa LGA,4,156,0,NULL,NULL,NULL,NULL,NULL
+1154,Mercy and Favour Clinic & Diagnostic Center,Facility in Yenagoa LGA,4,156,0,NULL,NULL,NULL,NULL,NULL
+1155,New Survivor Hospital, Igbo Gene,Facility in Yenagoa LGA,4,156,0,NULL,NULL,NULL,NULL,NULL
+1156,Niger Delta University Teaching Hospital,Facility in Yenagoa LGA,4,156,0,NULL,NULL,NULL,NULL,NULL
+1157,St. George Hospital, Okutukutu,Facility in Yenagoa LGA,4,156,0,NULL,NULL,NULL,NULL,NULL
+1158,Yenagoa Federal Medical Centre,Facility in Yenagoa LGA,4,156,0,NULL,NULL,NULL,NULL,NULL
+1159,Alafia Specialist Hospital,Facility in Akoko-Edo LGA,4,263,0,NULL,NULL,NULL,NULL,NULL
+1160,Ibillo General Hospital,Facility in Akoko-Edo LGA,4,263,0,NULL,NULL,NULL,NULL,NULL
+1161,Igarra General Hospital,Facility in Akoko-Edo LGA,4,263,0,NULL,NULL,NULL,NULL,NULL
+1162,University of Benin Teaching Hospital (UBTH),Facility in Egor LGA,4,264,0,NULL,NULL,NULL,NULL,NULL
+1163,Irrua Specialist Hospital,Facility in Esan Central LGA,4,265,0,NULL,NULL,NULL,NULL,NULL
+1164,Oriaifo Medical Centre,Facility in Esan North-East LGA,4,266,0,NULL,NULL,NULL,NULL,NULL
+1165,St. Camillus Hospital,Facility in Esan North-East LGA,4,266,0,NULL,NULL,NULL,NULL,NULL
+1166,Uromi Central Hospital,Facility in Esan North-East LGA,4,266,0,NULL,NULL,NULL,NULL,NULL
+1167,Ubiaja General Hospital,Facility in Esan South-East LGA,4,267,0,NULL,NULL,NULL,NULL,NULL
+1168,Ekpoma General Hospital,Facility in Esan West LGA,4,268,0,NULL,NULL,NULL,NULL,NULL
+1169,Iruekpen General Hospital,Facility in Esan West LGA,4,268,0,NULL,NULL,NULL,NULL,NULL
+1170,Agenebode General Hospital,Facility in Etsako East LGA,4,270,0,NULL,NULL,NULL,NULL,NULL
+1171,Okugbe Primary Health Centre,Facility in Etsako East LGA,4,270,0,NULL,NULL,NULL,NULL,NULL
+1173,Auchi Central Hospital,Facility in Etsako West LGA,4,271,0,NULL,NULL,NULL,NULL,NULL
+1174,Santa Maria Catholic Hospital,Facility in Etsako West LGA,4,271,0,NULL,NULL,NULL,NULL,NULL
+1175,Benin Central Hospital,Facility in Oredo LGA,4,275,0,NULL,NULL,NULL,NULL,NULL
+1176,Benin Evangel Model Hospital,Facility in Oredo LGA,4,275,0,NULL,NULL,NULL,NULL,NULL
+1177,Faith Mediplex,Facility in Oredo LGA,4,275,0,NULL,NULL,NULL,NULL,NULL
+1178,St Philomena Catholic Hospital,Facility in Oredo LGA,4,275,0,NULL,NULL,NULL,NULL,NULL
+1179,Stella Obasanjo Hospital,Facility in Oredo LGA,4,275,0,NULL,NULL,NULL,NULL,NULL
+1180,Abudu General Hospital,Facility in Orhionmwon LGA,4,274,0,NULL,NULL,NULL,NULL,NULL
+1181,Oben Cottage Hospital,Facility in Orhionmwon LGA,4,274,0,NULL,NULL,NULL,NULL,NULL
+1182,Ossiomio Specialist Hospital,Facility in Orhionmwon LGA,4,274,0,NULL,NULL,NULL,NULL,NULL
+1183,Iguobazua General Hospital,Facility in Ovia South-West LGA,4,277,0,NULL,NULL,NULL,NULL,NULL
+1184,Udo Primary Health Centre,Facility in Ovia South-West LGA,4,277,0,NULL,NULL,NULL,NULL,NULL
+1185,Usen General Hospital,Facility in Ovia South-West LGA,4,277,0,NULL,NULL,NULL,NULL,NULL
+1186,Afuze Referral Medical Centre,Facility in Owan East LGA,4,278,0,NULL,NULL,NULL,NULL,NULL
+1187,Sabongida Ora General Hospital,Facility in Owan East LGA,4,278,0,NULL,NULL,NULL,NULL,NULL
+1188,Dunia Hospital,Facility in Agege LGA Lagos,4,544,0,NULL,NULL,NULL,NULL,NULL
+1189,MAYFAIR Medical Centre,Facility in Agege LGA Lagos,4,544,0,NULL,NULL,NULL,NULL,NULL
+1190,Mobonike Hospital,Facility in Agege LGA Lagos,4,544,0,NULL,NULL,NULL,NULL,NULL
+1191,Odunbaku Primary Health Centre,Facility in Agege LGA Lagos,4,544,0,NULL,NULL,NULL,NULL,NULL
+1192,Orile Agege General Hospital,Facility in Agege LGA Lagos,4,544,0,NULL,NULL,NULL,NULL,NULL
+1193,Powerline Primary Health Centre,Facility in Agege LGA Lagos,4,544,0,NULL,NULL,NULL,NULL,NULL
+1194,Promise Medical Centre,Facility in Agege LGA Lagos,4,544,0,NULL,NULL,NULL,NULL,NULL
+1195,Sango Primary Health Centre,Facility in Agege LGA Lagos,4,544,0,NULL,NULL,NULL,NULL,NULL
+1196,Unita Hospital,Facility in Agege LGA Lagos,4,544,0,NULL,NULL,NULL,NULL,NULL
+1197,Ajeromi General Hospital,Facility in Ajeromi-Ifelodun LGA Lagos,4,545,0,NULL,NULL,NULL,NULL,NULL
+1198,Akere Primary Health Centre,Facility in Ajeromi-Ifelodun LGA Lagos,4,545,0,NULL,NULL,NULL,NULL,NULL
+1199,All Souls Hospital,Facility in Ajeromi-Ifelodun LGA Lagos,4,545,0,NULL,NULL,NULL,NULL,NULL
+1200,Amukoko Primary Health Centre,Facility in Ajeromi-Ifelodun LGA Lagos,4,545,0,NULL,NULL,NULL,NULL,NULL
+1201,DEETAB Hospital,Facility in Ajeromi-Ifelodun LGA Lagos,4,545,0,NULL,NULL,NULL,NULL,NULL
+1202,Faleti Medical Centre,Facility in Ajeromi-Ifelodun LGA Lagos,4,545,0,NULL,NULL,NULL,NULL,NULL
+1203,Ibafon Primary Health Centre,Facility in Ajeromi-Ifelodun LGA Lagos,4,545,0,NULL,NULL,NULL,NULL,NULL
+1204,Layeni Primary Health Centre,Facility in Ajeromi-Ifelodun LGA Lagos,4,545,0,NULL,NULL,NULL,NULL,NULL
+1205,St. Milla Hospital,Facility in Ajeromi-Ifelodun LGA Lagos,4,545,0,NULL,NULL,NULL,NULL,NULL
+1206,Tolu Primary Health Centre,Facility in Ajeromi-Ifelodun LGA Lagos,4,545,0,NULL,NULL,NULL,NULL,NULL
+1207,Ahamadiyya Muslim Hospital,Facility in Apapa LGA Lagos,4,548,0,NULL,NULL,NULL,NULL,NULL
+1208,Apapa General Hospital,Facility in Apapa LGA Lagos,4,548,0,NULL,NULL,NULL,NULL,NULL
+1209,Ijora Primary Health Centre,Facility in Apapa LGA Lagos,4,548,0,NULL,NULL,NULL,NULL,NULL
+1210,Olojowon Primary Health Centre,Facility in Apapa LGA Lagos,4,548,0,NULL,NULL,NULL,NULL,NULL
+1211,Sacred Heart Clinic,Facility in Apapa LGA Lagos,4,548,0,NULL,NULL,NULL,NULL,NULL
+1212,Ajara Primary Health Centre,Facility in Badagry LGA Lagos,4,549,0,NULL,NULL,NULL,NULL,NULL
+1213,Apa Primary Health Centre,Facility in Badagry LGA Lagos,4,549,0,NULL,NULL,NULL,NULL,NULL
+1214,Badagry General Hospital,Facility in Badagry LGA Lagos,4,549,0,NULL,NULL,NULL,NULL,NULL
+1215,Ilado PHC,Facility in Badagry LGA Lagos,4,549,0,NULL,NULL,NULL,NULL,NULL
+1216,Seme Primary Health Centre,Facility in Badagry LGA Lagos,4,549,0,NULL,NULL,NULL,NULL,NULL
+1217,General Hospital Ijede,Facility in Ikorodu LGA Lagos,4,555,0,NULL,NULL,NULL,NULL,NULL
+1218,General Hospital Ikorodu,Facility in Ikorodu LGA Lagos,4,555,0,NULL,NULL,NULL,NULL,NULL
+1219,St Raphael Divine Mercy Specialist Hospital,Facility in Ikorodu LGA Lagos,4,555,0,NULL,NULL,NULL,NULL,NULL
+1220,Gbagada General Hospital,Facility in Kosofe LGA Lagos,4,556,0,NULL,NULL,NULL,NULL,NULL
+1221,Ketu Primary Health Centre,Facility in Kosofe LGA Lagos,4,556,0,NULL,NULL,NULL,NULL,NULL
+1222,Iga Idugaran Primary Health Centre,Facility in Lagos Island LGA Lagos,4,557,0,NULL,NULL,NULL,NULL,NULL
+1223,Lagos General Hospital,Facility in Lagos Island LGA Lagos,4,557,0,NULL,NULL,NULL,NULL,NULL
+1224,Lagos Island Maternity Hospital,Facility in Lagos Island LGA Lagos,4,557,0,NULL,NULL,NULL,NULL,NULL
+1225,Massey Street Children's Hospital,Facility in Lagos Island LGA Lagos,4,557,0,NULL,NULL,NULL,NULL,NULL
+1226,Onikan Health Centre,Facility in Lagos Island LGA Lagos,4,557,0,NULL,NULL,NULL,NULL,NULL
+1227,Sura Primary Health Centre,Facility in Lagos Island LGA Lagos,4,557,0,NULL,NULL,NULL,NULL,NULL
+1228,Harvey Road Comprehensive Health Centre,Facility in Lagos Mainland LGA Lagos,4,558,0,NULL,NULL,NULL,NULL,NULL
+1229,Lagos State Mainland Hospital,Facility in Lagos Mainland LGA Lagos,4,558,0,NULL,NULL,NULL,NULL,NULL
+1230,Nigerian Institute of Medical Research (NIMR),Facility in Lagos Mainland LGA Lagos,4,558,0,NULL,NULL,NULL,NULL,NULL
+1231,RCCG/Redeemed Aid Programme Action Committee CSO,Facility in Lagos Mainland LGA Lagos,4,558,0,NULL,NULL,NULL,NULL,NULL
+1232,Simpson Primary Health Centre,Facility in Lagos Mainland LGA Lagos,4,558,0,NULL,NULL,NULL,NULL,NULL
+1233,Iba Primary Health Centre,Facility in Ojo LGA Lagos,4,560,0,NULL,NULL,NULL,NULL,NULL
+1234,Ijanikin Primary Health Centre,Facility in Ojo LGA Lagos,4,560,0,NULL,NULL,NULL,NULL,NULL
+1235,Ojo Primary Health Centre,Facility in Ojo LGA Lagos,4,560,0,NULL,NULL,NULL,NULL,NULL
+1236,Oyem's Hospital,Facility in Ojo LGA Lagos,4,560,0,NULL,NULL,NULL,NULL,NULL
+1237,Shomolu GH,Facility in Shomolu LGA Lagos,4,562,0,NULL,NULL,NULL,NULL,NULL
+1238,Akerele Primary Health Centre,Facility in Surulere LGA Lagos,4,563,0,NULL,NULL,NULL,NULL,NULL
+1239,Baruwa Primary Health Centre,Facility in Surulere LGA Lagos,4,563,0,NULL,NULL,NULL,NULL,NULL
+1240,Coker Aguda Primary Health Centre,Facility in Surulere LGA Lagos,4,563,0,NULL,NULL,NULL,NULL,NULL
+1241,Ejire Primary Health Centre,Facility in Surulere LGA Lagos,4,563,0,NULL,NULL,NULL,NULL,NULL
+1242,Randle General Hospital,Facility in Surulere LGA Lagos,4,563,0,NULL,NULL,NULL,NULL,NULL
+1243,General Hospistal Argungu,Facility in Argungu LGA Kebbi,4,488,0,NULL,NULL,NULL,NULL,NULL
+1244,Kaoje GH,Facility in Bagudo LGA Kebbi,4,490,0,NULL,NULL,NULL,NULL,NULL
+1245,Federal Medical Centre,Facility in Birnin Kebbi LGA Kebbi,4,491,0,NULL,NULL,NULL,NULL,NULL
+1246,Sir Yahaya Mem. Hospital,Facility in Birnin Kebbi LGA Kebbi,4,491,0,NULL,NULL,NULL,NULL,NULL
+1247,Jega,Facility in Jega LGA Kebbi,4,496,0,NULL,NULL,NULL,NULL,NULL
+1248,General Hospital (Koko Besse),Facility in Koko Besse LGA Kebbi,4,498,0,NULL,NULL,NULL,NULL,NULL
+1249,General Hospital Wara,Facility in Ngaski LGA Kebbi,4,500,0,NULL,NULL,NULL,NULL,NULL
+1250,General Hospital Yauri,Facility in Yauri LGA Kebbi,4,505,0,NULL,NULL,NULL,NULL,NULL
+1251,General Hospital Lafiagi,Facility in Edu LGA Kwara,4,530,0,NULL,NULL,NULL,NULL,NULL
+1252,Okelele Health Centre,Facility in Ilorin East LGA Kwara,4,533,0,NULL,NULL,NULL,NULL,NULL
+1253,UITH,Facility in Ilorin East LGA Kwara,4,533,0,NULL,NULL,NULL,NULL,NULL
+1254,Children Specialist Hospital C Igboro,Facility in Ilorin South LGA Kwara,4,534,0,NULL,NULL,NULL,NULL,NULL
+1255,Civil Services Hospital,Facility in Ilorin South LGA Kwara,4,534,0,NULL,NULL,NULL,NULL,NULL
+1256,Olufadi Basic Health Center,Facility in Ilorin South LGA Kwara,4,534,0,NULL,NULL,NULL,NULL,NULL
+1257,Sobi Specialist Hospital,Facility in Ilorin South LGA Kwara,4,534,0,NULL,NULL,NULL,NULL,NULL
+1258,Temitope Hospital,Facility in Ilorin South LGA Kwara,4,534,0,NULL,NULL,NULL,NULL,NULL
+1259,Adewole Cottage,Facility in Ilorin West LGA Kwara,4,535,0,NULL,NULL,NULL,NULL,NULL
+1260,Aishat Memorial Hospital,Facility in Ilorin West LGA Kwara,4,535,0,NULL,NULL,NULL,NULL,NULL
+1261,Surulere Medical Centre,Facility in Ilorin West LGA Kwara,4,535,0,NULL,NULL,NULL,NULL,NULL
+1262,General Hospital Omu-Aran,Facility in Irepodun LGA Kwara,4,536,0,NULL,NULL,NULL,NULL,NULL
+1263,Specialist Hospital,Facility in Offa LGA Kwara,4,540,0,NULL,NULL,NULL,NULL,NULL
+1264,General Hospital Patigi,Facility in Pategi LGA Kwara,4,543,0,NULL,NULL,NULL,NULL,NULL
+1265,Basic Health Beji,Facility in Bosso LGA Niger,4,581,0,NULL,NULL,NULL,NULL,NULL
+1266,PHC BOSSO SEC.,Facility in Bosso LGA Niger,4,581,0,NULL,NULL,NULL,NULL,NULL
+1267,General hospital Chanchaga,Facility in Chanchaga LGA Niger,4,582,0,NULL,NULL,NULL,NULL,NULL
+1268,IBB SPECIALIZES Hospital,Facility in Chanchaga LGA Niger,4,582,0,NULL,NULL,NULL,NULL,NULL
+1269,Old Airport Clinic,Facility in Chanchaga LGA Niger,4,582,0,NULL,NULL,NULL,NULL,NULL
+1270,PHC TUNGAN WAYA,Facility in Chanchaga LGA Niger,4,582,0,NULL,NULL,NULL,NULL,NULL
+1271,SAVANAH HOSPITAL,Facility in Chanchaga LGA Niger,4,582,0,NULL,NULL,NULL,NULL,NULL
+1272,STANDARD HOSPITAL,Facility in Chanchaga LGA Niger,4,582,0,NULL,NULL,NULL,NULL,NULL
+1273,MCH GAWU,Facility in Gurara LGA Niger,4,585,0,NULL,NULL,NULL,NULL,NULL
+1274,MCH K KORO,Facility in Paikoro LGA Niger,4,595,0,NULL,NULL,NULL,NULL,NULL
+1275,General Hospital Suleja,Facility in Suleja LGA Niger,4,599,0,NULL,NULL,NULL,NULL,NULL
+1276,LUCAS HOPSITAL,Facility in Suleja LGA Niger,4,599,0,NULL,NULL,NULL,NULL,NULL
+1277,MADALLA MEMDICAL CENTRE,Facility in Suleja LGA Niger,4,599,0,NULL,NULL,NULL,NULL,NULL
+1278,SUZAN HOPSITAL,Facility in Suleja LGA Niger,4,599,0,NULL,NULL,NULL,NULL,NULL
+1279,TOWN CLINIC,Facility in Suleja LGA Niger,4,599,0,NULL,NULL,NULL,NULL,NULL
+1280,Sabon Wuse General Hospital,Facility in Tafa LGA Niger,4,600,0,NULL,NULL,NULL,NULL,NULL
+1281,Holy Family Clinic,Facility in Sokoto North LGA Sokoto ,4,758,0,NULL,NULL,NULL,NULL,NULL
+1282,Women and Children Welfare Clinic,Facility in Sokoto North LGA Sokoto ,4,758,0,NULL,NULL,NULL,NULL,NULL
+1283,Maryam Abacha Women & Children Hospital,Facility in Sokoto South LGA Sokoto ,4,759,0,NULL,NULL,NULL,NULL,NULL
+1284,Specialist Hospital- Sokoto,Facility in Sokoto South LGA Sokoto,4,759,0,NULL,NULL,NULL,NULL,NULL
+1285,General Hospital Dogon Daji,Facility in Tambuwal LGA Sokoto,4,760,0,NULL,NULL,NULL,NULL,NULL
+1286,General Hospital Tambuwal,Facility in Tambuwal LGA Sokoto,4,760,0,NULL,NULL,NULL,NULL,NULL
+1287,Usman DanFodio University Teaching Hospital,Facility in Wamako LGA Sokoto,4,763,0,NULL,NULL,NULL,NULL,NULL
+1288,Gusau FMC,Facility in Gusau LGA Zamfara,4,805,0,NULL,NULL,NULL,NULL,NULL
+1289,Gusau General Hospital,Facility in Gusau LGA Zamfara,4,805,0,NULL,NULL,NULL,NULL,NULL
+1290,King Fahad WCWC,Facility in Gusau LGA Zamfara,4,805,0,NULL,NULL,NULL,NULL,NULL
+1291,Magami PHC,Facility in Gusau LGA Zamfara,4,805,0,NULL,NULL,NULL,NULL,NULL
+1292,Yerima Bakura Specialist Hospital,Facility in Gusau LGA Zamfara,4,805,0,NULL,NULL,NULL,NULL,NULL
+1293,Kaura Namoda General Hospital,Facility in Kaura Namoda LGA Zamfara,4,806,0,NULL,NULL,NULL,NULL,NULL
+1294,Shinkafi General Hospital,Facility in Shinkafi LGA Zamfara,4,809,0,NULL,NULL,NULL,NULL,NULL
+1295,Tsafe General Hospital,Facility in Chafe LGA Zamfara,4,811,0,NULL,NULL,NULL,NULL,NULL
+1296,Martha Bamaiyi General Hospital,Facility in Zuru LGA Kebbi,4,506,0,NULL,NULL,NULL,NULL,NULL
+1297,Wasagu General Hospital,Facility in Birnin Kebbi LGA Kebbi,4,491,0,NULL,NULL,NULL,NULL,NULL
+1298,Kamba General Hospital,Facility in Birnin Kebbi LGA Kebbi,4,491,0,NULL,NULL,NULL,NULL,NULL
+1299,Kaiama General Hospital,Facility in Kaiama LGA Kwara,4,538,0,NULL,NULL,NULL,NULL,NULL
+1300,Shonga Comprehensive Health Center,Facility in Edu LGA Kwara,4,530,0,NULL,NULL,NULL,NULL,NULL
+1301,Erin Ile General Hospital,Facility in Oyun LGA Kwara,4,542,0,NULL,NULL,NULL,NULL,NULL
+1302,Jebba State Specialist Hospital,Facility in Moro LGA Kwara,4,539,0,NULL,NULL,NULL,NULL,NULL
+1303,Sabo Oke Medical Center,Facility in Ilorin South LGA Kwara,4,534,0,NULL,NULL,NULL,NULL,NULL
+1304,Agaie General Hospital,Facility in Agaie LGA Niger,4,577,0,NULL,NULL,NULL,NULL,NULL
+1305,Sanyinna Comprehensive Health Centre,Facility in Tambuwal LGA Sokoto,4,760,0,NULL,NULL,NULL,NULL,NULL
+1306,Illela General Hospital,Facility in Illela LGA Sokoto,4,750,0,NULL,NULL,NULL,NULL,NULL
+1307,Kofar Rini Comprehensive Health Centre,Facility in Sokoto North LGA Sokoto,4,758,0,NULL,NULL,NULL,NULL,NULL
+1308,Wurno General Hospital,Facility in Wurno LGA Sokoto,4,764,0,NULL,NULL,NULL,NULL,NULL
+1309,Isa General Hospital,Facility in Isa LGA Sokoto,4,751,0,NULL,NULL,NULL,NULL,NULL
+1310,Rabah General Hospital,Facility in Rabah LGA Sokoto,4,754,0,NULL,NULL,NULL,NULL,NULL
+1311,Talata Mafara General Hospital,Facility in Talata Mafara LGA Zamfara,4,810,0,NULL,NULL,NULL,NULL,NULL
+1312,Gummi General Hospital,Facility in Gummi LGA Zamfara,4,804,0,NULL,NULL,NULL,NULL,NULL
+1313,Anka General Hospital,Facility in Anka LGA Zamfara,4,799,0,NULL,NULL,NULL,NULL,NULL
+1314,Bungudu General Hospital,Facility in Bungudu LGA Zamfara,4,803,0,NULL,NULL,NULL,NULL,NULL
+1315,Maru General Hospital,Facility in Maru LGA Zamfara,4,808,0,NULL,NULL,NULL,NULL,NULL
+1316,General Hospital Ilorin,Facility in Ilorin West LGA Kwara,4,535,0,NULL,NULL,NULL,NULL,NULL

@@ -1,0 +1,5 @@
+id,name,uuid,date_created,created_by,date_modified,modified_by,archived
+1,Chemistry,NULL,NULL,NULL,NULL,NULL,0
+2,Haematology,NULL,NULL,NULL,NULL,NULL,0
+3,Microbiology,NULL,NULL,NULL,NULL,NULL,0
+4,Virology,NULL,NULL,NULL,NULL,NULL,0

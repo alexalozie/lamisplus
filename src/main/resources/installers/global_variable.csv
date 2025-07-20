@@ -1,0 +1,9 @@
+id,name,description,format,archived
+1,patient.id.format,For patient registration,[1-100],1
+2,lab.no.format,For lab number generation,1,0
+3,ART Number,ART unique number,ART&&&&&&,0
+4,BaseUrl,Base url,lamisplus.org,0
+5,BaseUrl234,Base url,lamisplus.org,1
+6,hts.client.format,Format for HTS Client ID,[0-9],0
+7,prep.client.id.format,PrEP client id formatter,[0-9],0
+8,pmtct.client.no,Client number format,[0-9],0

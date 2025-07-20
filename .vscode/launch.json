@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BaseApplication<base-module>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "org.lamisplus.modules.base.BaseApplication",
+            "projectName": "base-module",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
